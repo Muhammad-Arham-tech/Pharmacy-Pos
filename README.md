@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Med-Quick - Secure Pharmacy POS
 
 This is the initial project skeleton for "Med-Quick", a secure, enterprise-grade Pharmacy Point-of-Sale system. This document outlines the project structure and provides guidance on how to set up and run the application.
@@ -77,3 +78,7 @@ This is the initial project skeleton for "Med-Quick", a secure, enterprise-grade
     *   Place the entire project folder in the web root of your local server (e.g., `C:\wamp64\www\pos4`).
     *   Navigate to `http://localhost/pos4/` in your web browser. You will be redirected to the login page.
 
+=======
+# Pharmacy-Pos
+A complete Pharmacy Point of Sale (POS) system built with PHP, MySQL, and JavaScript for managing medicines, sales, customers, and inventory.
+>>>>>>> 049541258c842cd23922693f2939badc685443cc
