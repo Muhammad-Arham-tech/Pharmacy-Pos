@@ -1,0 +1,193 @@
+[18-Jan-2026 17:32:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[18-Jan-2026 17:33:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[18-Jan-2026 17:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[18-Jan-2026 17:35:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[18-Jan-2026 18:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[19-Jan-2026 15:25:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[19-Jan-2026 15:26:26 UTC] SecurityHelper Error: Encryption key must be 32 bytes long.
+[19-Jan-2026 15:26:26 UTC] SecurityHelper Error: Encryption key must be 32 bytes long.
+[19-Jan-2026 15:26:26 UTC] SecurityHelper Error: Encryption key must be 32 bytes long.
+[19-Jan-2026 15:26:34 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 15:26:34 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 15:26:34 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 15:26:34 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 08:34:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[20-Jan-2026 08:34:57 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 08:34:57 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 08:34:57 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 08:34:57 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 08:36:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[20-Jan-2026 08:42:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[20-Jan-2026 15:45:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[21-Jan-2026 08:16:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[21-Jan-2026 13:27:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[23-Jan-2026 15:21:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\pos4 - Copy\api\get_sales_data.php on line 6
+[27-Jan-2026 13:02:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php on line 6
+[27-Jan-2026 13:04:32 UTC] SecurityHelper Error: Encryption key must be 32 bytes long.
+[27-Jan-2026 13:04:32 UTC] SecurityHelper Error: Encryption key must be 32 bytes long.
+[27-Jan-2026 13:04:32 UTC] SecurityHelper Error: Encryption key must be 32 bytes long.
+[27-Jan-2026 13:04:40 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:04:40 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:04:40 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:04:40 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:04:55 UTC] PHP Warning:  require_once(../php/init_db.php): Failed to open stream: No such file or directory in C:\wamp64\www\Pharmacy-Pos\api\update_user.php on line 10
+[27-Jan-2026 13:04:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../php/init_db.php' (include_path='.;C:\php\pear') in C:\wamp64\www\Pharmacy-Pos\api\update_user.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\update_user.php on line 10
+[27-Jan-2026 13:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php on line 6
+[27-Jan-2026 13:14:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php on line 6
+[27-Jan-2026 13:14:46 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:14:46 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:14:46 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:14:46 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:14:58 UTC] PHP Warning:  require_once(../php/init_db.php): Failed to open stream: No such file or directory in C:\wamp64\www\Pharmacy-Pos\api\update_user.php on line 10
+[27-Jan-2026 13:14:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../php/init_db.php' (include_path='.;C:\php\pear') in C:\wamp64\www\Pharmacy-Pos\api\update_user.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\update_user.php on line 10
+[27-Jan-2026 13:20:12 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:20:12 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:20:12 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:20:12 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:20:21 UTC] PHP Warning:  require_once(../php/init_db.php): Failed to open stream: No such file or directory in C:\wamp64\www\Pharmacy-Pos\api\update_user_handler.php on line 10
+[27-Jan-2026 13:20:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../php/init_db.php' (include_path='.;C:\php\pear') in C:\wamp64\www\Pharmacy-Pos\api\update_user_handler.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\update_user_handler.php on line 10
+[27-Jan-2026 13:25:45 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:25:45 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:25:45 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:25:45 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:25:51 UTC] PHP Warning:  require_once(../php/init_db.php): Failed to open stream: No such file or directory in C:\wamp64\www\Pharmacy-Pos\api\update_user_handler.php on line 11
+[27-Jan-2026 13:25:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../php/init_db.php' (include_path='.;C:\php\pear') in C:\wamp64\www\Pharmacy-Pos\api\update_user_handler.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\update_user_handler.php on line 11
+[27-Jan-2026 13:30:01 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:30:01 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:30:01 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:30:01 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:30:11 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:30:11 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:30:11 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:30:11 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:33:39 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:33:39 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:33:39 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:33:39 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:33:48 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:33:48 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:33:48 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php on line 6
+[27-Jan-2026 13:38:10 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:38:10 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:38:10 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:41:38 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:41:38 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:41:38 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:44:01 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:44:01 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:44:01 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:46:13 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:46:13 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:46:13 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:46:23 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:46:23 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:46:23 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:46:45 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:46:45 UTC] get_user.php: Decryption failed for user ID 3 with encrypted data: 3g/LgZTAd1465o3e5UYgxiFceemx62ARQ/hE5iFT1AfG8rauT8Rglx0LzB6gx9Pi+c3YPaO7uHcfslme3bI8oDwerz9h
+[27-Jan-2026 13:46:49 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:46:49 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:46:49 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:48:59 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:48:59 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:48:59 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:49:13 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:49:13 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:49:13 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:52:39 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:52:39 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:52:39 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 14:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php on line 6
+[28-Jan-2026 08:05:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php on line 6
+[28-Jan-2026 08:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php on line 6
+[28-Jan-2026 13:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SecurityHelper::require_logged_in() in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Pharmacy-Pos\api\get_sales_data.php on line 6
+[28-Jan-2026 13:36:14 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[28-Jan-2026 13:36:14 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[28-Jan-2026 13:36:14 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 08:00:02 UTC] SecurityHelper Error: Encryption key must be 32 bytes long.
+[30-Jan-2026 08:00:02 UTC] SecurityHelper Error: Encryption key must be 32 bytes long.
+[30-Jan-2026 08:00:02 UTC] SecurityHelper Error: Encryption key must be 32 bytes long.
+[30-Jan-2026 08:00:14 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 08:00:14 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 08:00:14 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 13:39:04 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 13:39:04 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 13:39:04 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[02-Feb-2026 15:33:44 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[02-Feb-2026 15:33:44 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[02-Feb-2026 15:33:44 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.

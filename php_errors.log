@@ -1,0 +1,681 @@
+[18-Jan-2026 17:32:50 UTC] Login attempt for username: admin
+[18-Jan-2026 17:32:50 UTC] Loaded 4 users from db.json.
+[18-Jan-2026 17:32:50 UTC] Found user: admin
+[18-Jan-2026 17:32:50 UTC] Password verified successfully for user: admin
+[18-Jan-2026 17:32:50 UTC] Login SUCCESS for user: admin
+[18-Jan-2026 17:32:50 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[18-Jan-2026 17:32:50 UTC] Session variables set for user: admin, Role: admin
+[18-Jan-2026 17:34:09 UTC] Login attempt for username: admin
+[18-Jan-2026 17:34:09 UTC] Loaded 4 users from db.json.
+[18-Jan-2026 17:34:09 UTC] Found user: admin
+[18-Jan-2026 17:34:09 UTC] Password verification FAILED for user: admin
+[18-Jan-2026 17:34:09 UTC] Login FAILED for username: admin. Invalid credentials.
+[18-Jan-2026 17:34:22 UTC] Login attempt for username: admin
+[18-Jan-2026 17:34:22 UTC] Loaded 4 users from db.json.
+[18-Jan-2026 17:34:22 UTC] Found user: admin
+[18-Jan-2026 17:34:22 UTC] Password verified successfully for user: admin
+[18-Jan-2026 17:34:22 UTC] Login SUCCESS for user: admin
+[18-Jan-2026 17:34:22 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[18-Jan-2026 17:34:22 UTC] Session variables set for user: admin, Role: admin
+[18-Jan-2026 17:40:47 UTC] Login attempt for username: admin
+[18-Jan-2026 17:40:47 UTC] Loaded 4 users from db.json.
+[18-Jan-2026 17:40:47 UTC] Found user: admin
+[18-Jan-2026 17:40:47 UTC] Password verified successfully for user: admin
+[18-Jan-2026 17:40:47 UTC] Login SUCCESS for user: admin
+[18-Jan-2026 17:40:47 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[18-Jan-2026 17:40:47 UTC] Session variables set for user: admin, Role: admin
+[18-Jan-2026 18:01:20 UTC] Login attempt for username: admin
+[18-Jan-2026 18:01:20 UTC] Loaded 4 users from db.json.
+[18-Jan-2026 18:01:20 UTC] Found user: admin
+[18-Jan-2026 18:01:21 UTC] Password verified successfully for user: admin
+[18-Jan-2026 18:01:21 UTC] Login SUCCESS for user: admin
+[18-Jan-2026 18:01:21 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[18-Jan-2026 18:01:21 UTC] Session variables set for user: admin, Role: admin
+[18-Jan-2026 18:04:06 UTC] Login attempt for username: admin
+[18-Jan-2026 18:04:06 UTC] Loaded 4 users from db.json.
+[18-Jan-2026 18:04:06 UTC] Found user: admin
+[18-Jan-2026 18:04:07 UTC] Password verified successfully for user: admin
+[18-Jan-2026 18:04:07 UTC] Login SUCCESS for user: admin
+[18-Jan-2026 18:04:07 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[18-Jan-2026 18:04:07 UTC] Session variables set for user: admin, Role: admin
+[18-Jan-2026 18:07:28 UTC] Login attempt for username: admin
+[18-Jan-2026 18:07:28 UTC] Loaded 4 users from db.json.
+[18-Jan-2026 18:07:28 UTC] Found user: admin
+[18-Jan-2026 18:07:29 UTC] Password verified successfully for user: admin
+[18-Jan-2026 18:07:29 UTC] Login SUCCESS for user: admin
+[18-Jan-2026 18:07:29 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[18-Jan-2026 18:07:29 UTC] Session variables set for user: admin, Role: admin
+[18-Jan-2026 18:12:36 UTC] Login attempt for username: admin
+[18-Jan-2026 18:12:36 UTC] Loaded 4 users from db.json.
+[18-Jan-2026 18:12:36 UTC] Found user: admin
+[18-Jan-2026 18:12:36 UTC] Password verified successfully for user: admin
+[18-Jan-2026 18:12:36 UTC] Login SUCCESS for user: admin
+[18-Jan-2026 18:12:36 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[18-Jan-2026 18:12:36 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 13:32:45 UTC] Login attempt for username: admin
+[19-Jan-2026 13:32:45 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 13:32:45 UTC] Found user: admin
+[19-Jan-2026 13:32:45 UTC] Password verified successfully for user: admin
+[19-Jan-2026 13:32:45 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 13:32:45 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 13:32:45 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 14:02:46 UTC] Login attempt for username: admin
+[19-Jan-2026 14:02:46 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 14:02:46 UTC] Found user: admin
+[19-Jan-2026 14:02:46 UTC] Password verified successfully for user: admin
+[19-Jan-2026 14:02:46 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 14:02:46 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 14:02:46 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 14:09:38 UTC] Login attempt for username: admin
+[19-Jan-2026 14:09:38 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 14:09:38 UTC] Found user: admin
+[19-Jan-2026 14:09:38 UTC] Password verified successfully for user: admin
+[19-Jan-2026 14:09:38 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 14:09:38 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 14:09:38 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 14:14:39 UTC] Login attempt for username: admin
+[19-Jan-2026 14:14:39 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 14:14:39 UTC] Found user: admin
+[19-Jan-2026 14:14:39 UTC] Password verified successfully for user: admin
+[19-Jan-2026 14:14:39 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 14:14:39 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 14:14:39 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 14:18:08 UTC] Login attempt for username: admin
+[19-Jan-2026 14:18:08 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 14:18:08 UTC] Found user: admin
+[19-Jan-2026 14:18:08 UTC] Password verified successfully for user: admin
+[19-Jan-2026 14:18:08 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 14:18:08 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 14:18:08 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 14:23:22 UTC] Login attempt for username: admin
+[19-Jan-2026 14:23:22 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 14:23:22 UTC] Found user: admin
+[19-Jan-2026 14:23:22 UTC] Password verified successfully for user: admin
+[19-Jan-2026 14:23:22 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 14:23:22 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 14:23:22 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 14:23:52 UTC] Login attempt for username: admin
+[19-Jan-2026 14:23:52 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 14:23:52 UTC] Found user: admin
+[19-Jan-2026 14:23:52 UTC] Password verified successfully for user: admin
+[19-Jan-2026 14:23:52 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 14:23:52 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 14:23:52 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 14:28:25 UTC] Login attempt for username: admin
+[19-Jan-2026 14:28:25 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 14:28:25 UTC] Found user: admin
+[19-Jan-2026 14:28:26 UTC] Password verified successfully for user: admin
+[19-Jan-2026 14:28:26 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 14:28:26 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 14:28:26 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 14:36:25 UTC] Login attempt for username: admin
+[19-Jan-2026 14:36:25 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 14:36:25 UTC] Found user: admin
+[19-Jan-2026 14:36:25 UTC] Password verified successfully for user: admin
+[19-Jan-2026 14:36:25 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 14:36:25 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 14:36:25 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 14:37:15 UTC] Login attempt for username: admin
+[19-Jan-2026 14:37:15 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 14:37:15 UTC] Found user: admin
+[19-Jan-2026 14:37:15 UTC] Password verified successfully for user: admin
+[19-Jan-2026 14:37:15 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 14:37:15 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 14:37:15 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 14:42:18 UTC] Login attempt for username: admin
+[19-Jan-2026 14:42:18 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 14:42:18 UTC] Found user: admin
+[19-Jan-2026 14:42:19 UTC] Password verified successfully for user: admin
+[19-Jan-2026 14:42:19 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 14:42:19 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 14:42:19 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 15:14:47 UTC] Login attempt for username: admin
+[19-Jan-2026 15:14:47 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 15:14:47 UTC] Found user: admin
+[19-Jan-2026 15:14:47 UTC] Password verified successfully for user: admin
+[19-Jan-2026 15:14:47 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 15:14:47 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 15:14:47 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 15:19:15 UTC] Login attempt for username: admin
+[19-Jan-2026 15:19:15 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 15:19:15 UTC] Found user: admin
+[19-Jan-2026 15:19:15 UTC] Password verified successfully for user: admin
+[19-Jan-2026 15:19:15 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 15:19:15 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 15:19:15 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 15:23:10 UTC] Login attempt for username: admin
+[19-Jan-2026 15:23:10 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 15:23:10 UTC] Found user: admin
+[19-Jan-2026 15:23:10 UTC] Password verified successfully for user: admin
+[19-Jan-2026 15:23:10 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 15:23:10 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 15:23:10 UTC] Session variables set for user: admin, Role: admin
+[19-Jan-2026 15:29:16 UTC] Login attempt for username: admin
+[19-Jan-2026 15:29:16 UTC] Loaded 4 users from db.json.
+[19-Jan-2026 15:29:16 UTC] Found user: admin
+[19-Jan-2026 15:29:16 UTC] Password verified successfully for user: admin
+[19-Jan-2026 15:29:16 UTC] Login SUCCESS for user: admin
+[19-Jan-2026 15:29:16 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[19-Jan-2026 15:29:16 UTC] Session variables set for user: admin, Role: admin
+[20-Jan-2026 07:59:45 UTC] Login attempt for username: admin
+[20-Jan-2026 07:59:45 UTC] Loaded 4 users from db.json.
+[20-Jan-2026 07:59:45 UTC] Found user: admin
+[20-Jan-2026 07:59:45 UTC] Password verified successfully for user: admin
+[20-Jan-2026 07:59:45 UTC] Login SUCCESS for user: admin
+[20-Jan-2026 07:59:45 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 07:59:45 UTC] Session variables set for user: admin, Role: admin
+[20-Jan-2026 08:34:28 UTC] Login attempt for username: admin
+[20-Jan-2026 08:34:28 UTC] Loaded 4 users from db.json.
+[20-Jan-2026 08:34:28 UTC] Found user: admin
+[20-Jan-2026 08:34:28 UTC] Password verified successfully for user: admin
+[20-Jan-2026 08:34:28 UTC] Login SUCCESS for user: admin
+[20-Jan-2026 08:34:28 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 08:34:28 UTC] Session variables set for user: admin, Role: admin
+[20-Jan-2026 08:42:08 UTC] Login attempt for username: admin
+[20-Jan-2026 08:42:08 UTC] Loaded 4 users from db.json.
+[20-Jan-2026 08:42:08 UTC] Found user: admin
+[20-Jan-2026 08:42:08 UTC] Password verified successfully for user: admin
+[20-Jan-2026 08:42:08 UTC] Login SUCCESS for user: admin
+[20-Jan-2026 08:42:08 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 08:42:08 UTC] Session variables set for user: admin, Role: admin
+[20-Jan-2026 15:44:50 UTC] Login attempt for username: admin
+[20-Jan-2026 15:44:51 UTC] Loaded 4 users from db.json.
+[20-Jan-2026 15:44:51 UTC] Found user: admin
+[20-Jan-2026 15:44:51 UTC] Password verified successfully for user: admin
+[20-Jan-2026 15:44:51 UTC] Login SUCCESS for user: admin
+[20-Jan-2026 15:44:51 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 15:44:51 UTC] Session variables set for user: admin, Role: admin
+[20-Jan-2026 15:53:11 UTC] Login attempt for username: admin
+[20-Jan-2026 15:53:11 UTC] Loaded 4 users from db.json.
+[20-Jan-2026 15:53:11 UTC] Found user: admin
+[20-Jan-2026 15:53:11 UTC] Password verified successfully for user: admin
+[20-Jan-2026 15:53:11 UTC] Login SUCCESS for user: admin
+[20-Jan-2026 15:53:11 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 15:53:11 UTC] Session variables set for user: admin, Role: admin
+[20-Jan-2026 16:09:16 UTC] Login attempt for username: admin
+[20-Jan-2026 16:09:16 UTC] Loaded 4 users from db.json.
+[20-Jan-2026 16:09:16 UTC] Found user: admin
+[20-Jan-2026 16:09:16 UTC] Password verified successfully for user: admin
+[20-Jan-2026 16:09:16 UTC] Login SUCCESS for user: admin
+[20-Jan-2026 16:09:16 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[20-Jan-2026 16:09:16 UTC] Session variables set for user: admin, Role: admin
+[21-Jan-2026 08:15:24 UTC] Login attempt for username: admin
+[21-Jan-2026 08:15:24 UTC] Loaded 4 users from db.json.
+[21-Jan-2026 08:15:24 UTC] Found user: admin
+[21-Jan-2026 08:15:24 UTC] Password verified successfully for user: admin
+[21-Jan-2026 08:15:24 UTC] Login SUCCESS for user: admin
+[21-Jan-2026 08:15:24 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[21-Jan-2026 08:15:24 UTC] Session variables set for user: admin, Role: admin
+[21-Jan-2026 13:22:54 UTC] Login attempt for username: admin
+[21-Jan-2026 13:22:54 UTC] Loaded 4 users from db.json.
+[21-Jan-2026 13:22:54 UTC] Found user: admin
+[21-Jan-2026 13:22:54 UTC] Password verified successfully for user: admin
+[21-Jan-2026 13:22:54 UTC] Login SUCCESS for user: admin
+[21-Jan-2026 13:22:54 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[21-Jan-2026 13:22:54 UTC] Session variables set for user: admin, Role: admin
+[21-Jan-2026 13:27:33 UTC] Login attempt for username: admin
+[21-Jan-2026 13:27:33 UTC] Loaded 4 users from db.json.
+[21-Jan-2026 13:27:33 UTC] Found user: admin
+[21-Jan-2026 13:27:33 UTC] Password verified successfully for user: admin
+[21-Jan-2026 13:27:33 UTC] Login SUCCESS for user: admin
+[21-Jan-2026 13:27:33 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[21-Jan-2026 13:27:33 UTC] Session variables set for user: admin, Role: admin
+[21-Jan-2026 14:21:54 UTC] Login attempt for username: admin
+[21-Jan-2026 14:21:54 UTC] Loaded 4 users from db.json.
+[21-Jan-2026 14:21:54 UTC] Found user: admin
+[21-Jan-2026 14:21:54 UTC] Password verified successfully for user: admin
+[21-Jan-2026 14:21:54 UTC] Login SUCCESS for user: admin
+[21-Jan-2026 14:21:54 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[21-Jan-2026 14:21:54 UTC] Session variables set for user: admin, Role: admin
+[21-Jan-2026 14:31:04 UTC] Login attempt for username: admin
+[21-Jan-2026 14:31:04 UTC] Loaded 4 users from db.json.
+[21-Jan-2026 14:31:04 UTC] Found user: admin
+[21-Jan-2026 14:31:04 UTC] Password verified successfully for user: admin
+[21-Jan-2026 14:31:04 UTC] Login SUCCESS for user: admin
+[21-Jan-2026 14:31:04 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[21-Jan-2026 14:31:04 UTC] Session variables set for user: admin, Role: admin
+[22-Jan-2026 17:02:48 UTC] Login attempt for username: admin
+[22-Jan-2026 17:02:48 UTC] Loaded 4 users from db.json.
+[22-Jan-2026 17:02:48 UTC] Found user: admin
+[22-Jan-2026 17:02:48 UTC] Password verified successfully for user: admin
+[22-Jan-2026 17:02:48 UTC] Login SUCCESS for user: admin
+[22-Jan-2026 17:02:48 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[22-Jan-2026 17:02:48 UTC] Session variables set for user: admin, Role: admin
+[22-Jan-2026 17:08:48 UTC] Login attempt for username: admin
+[22-Jan-2026 17:08:48 UTC] Loaded 4 users from db.json.
+[22-Jan-2026 17:08:48 UTC] Found user: admin
+[22-Jan-2026 17:08:48 UTC] Password verified successfully for user: admin
+[22-Jan-2026 17:08:48 UTC] Login SUCCESS for user: admin
+[22-Jan-2026 17:08:48 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[22-Jan-2026 17:08:48 UTC] Session variables set for user: admin, Role: admin
+[22-Jan-2026 17:20:21 UTC] Login attempt for username: admin
+[22-Jan-2026 17:20:21 UTC] Loaded 4 users from db.json.
+[22-Jan-2026 17:20:21 UTC] Found user: admin
+[22-Jan-2026 17:20:21 UTC] Password verified successfully for user: admin
+[22-Jan-2026 17:20:21 UTC] Login SUCCESS for user: admin
+[22-Jan-2026 17:20:21 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[22-Jan-2026 17:20:21 UTC] Session variables set for user: admin, Role: admin
+[23-Jan-2026 15:21:40 UTC] Login attempt for username: admin
+[23-Jan-2026 15:21:40 UTC] Loaded 4 users from db.json.
+[23-Jan-2026 15:21:40 UTC] Found user: admin
+[23-Jan-2026 15:21:40 UTC] Password verified successfully for user: admin
+[23-Jan-2026 15:21:40 UTC] Login SUCCESS for user: admin
+[23-Jan-2026 15:21:40 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[23-Jan-2026 15:21:40 UTC] Session variables set for user: admin, Role: admin
+[26-Jan-2026 13:56:01 UTC] Login attempt for username: admin
+[26-Jan-2026 13:56:01 UTC] Loaded 4 users from db.json.
+[26-Jan-2026 13:56:01 UTC] Found user: admin
+[26-Jan-2026 13:56:02 UTC] Password verified successfully for user: admin
+[26-Jan-2026 13:56:02 UTC] Login SUCCESS for user: admin
+[26-Jan-2026 13:56:02 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[26-Jan-2026 13:56:02 UTC] Session variables set for user: admin, Role: admin
+[26-Jan-2026 14:54:54 UTC] Login attempt for username: admin
+[26-Jan-2026 14:54:54 UTC] Loaded 4 users from db.json.
+[26-Jan-2026 14:54:54 UTC] Found user: admin
+[26-Jan-2026 14:54:54 UTC] Password verified successfully for user: admin
+[26-Jan-2026 14:54:54 UTC] Login SUCCESS for user: admin
+[26-Jan-2026 14:54:54 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[26-Jan-2026 14:54:54 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 09:01:07 UTC] Login attempt for username: admin
+[27-Jan-2026 09:01:07 UTC] Loaded 4 users from db.json.
+[27-Jan-2026 09:01:07 UTC] Found user: admin
+[27-Jan-2026 09:01:07 UTC] Password verified successfully for user: admin
+[27-Jan-2026 09:01:07 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 09:01:07 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 09:01:07 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:01:13 UTC] Login attempt for username: admin
+[27-Jan-2026 13:01:13 UTC] Loaded 4 users from db.json.
+[27-Jan-2026 13:01:13 UTC] Found user: admin
+[27-Jan-2026 13:01:13 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:01:13 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:01:13 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:01:13 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:02:04 UTC] Login attempt for username: admin
+[27-Jan-2026 13:02:04 UTC] Loaded 4 users from db.json.
+[27-Jan-2026 13:02:04 UTC] Found user: admin
+[27-Jan-2026 13:02:04 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:02:04 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:02:04 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:02:04 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:05:46 UTC] Login attempt for username: admin
+[27-Jan-2026 13:05:46 UTC] Loaded 4 users from db.json.
+[27-Jan-2026 13:05:46 UTC] Found user: admin
+[27-Jan-2026 13:05:46 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:05:46 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:05:46 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:05:46 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:10:31 UTC] Login attempt for username: admin
+[27-Jan-2026 13:10:31 UTC] Loaded 4 users from db.json.
+[27-Jan-2026 13:10:31 UTC] Found user: admin
+[27-Jan-2026 13:10:31 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:10:31 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:10:31 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:10:31 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:19:54 UTC] Login attempt for username: admin
+[27-Jan-2026 13:19:54 UTC] Loaded 4 users from db.json.
+[27-Jan-2026 13:19:54 UTC] Found user: admin
+[27-Jan-2026 13:19:54 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:19:54 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:19:54 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:19:54 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:25:42 UTC] Login attempt for username: admin
+[27-Jan-2026 13:25:42 UTC] Loaded 4 users from db.json.
+[27-Jan-2026 13:25:42 UTC] Found user: admin
+[27-Jan-2026 13:25:42 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:25:42 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:25:42 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:25:42 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:29:51 UTC] Login attempt for username: admin
+[27-Jan-2026 13:29:51 UTC] Loaded 4 users from db.json.
+[27-Jan-2026 13:29:51 UTC] Found user: admin
+[27-Jan-2026 13:29:51 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:29:51 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:29:51 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:29:51 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:33:10 UTC] Login attempt for username: admin
+[27-Jan-2026 13:33:10 UTC] Loaded 4 users from db.json.
+[27-Jan-2026 13:33:10 UTC] Found user: admin
+[27-Jan-2026 13:33:10 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:33:10 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:33:10 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:33:10 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:37:41 UTC] Login attempt for username: admin
+[27-Jan-2026 13:37:41 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 13:37:41 UTC] Found user: admin
+[27-Jan-2026 13:37:41 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:37:41 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:37:41 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:37:41 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:41:31 UTC] Login attempt for username: admin
+[27-Jan-2026 13:41:31 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 13:41:31 UTC] Found user: admin
+[27-Jan-2026 13:41:32 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:41:32 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:41:32 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:41:32 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:48:50 UTC] Login attempt for username: admin
+[27-Jan-2026 13:48:50 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 13:48:50 UTC] Found user: admin
+[27-Jan-2026 13:48:50 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:48:50 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:48:50 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:48:50 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 13:52:32 UTC] Login attempt for username: admin
+[27-Jan-2026 13:52:32 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 13:52:32 UTC] Found user: admin
+[27-Jan-2026 13:52:32 UTC] Password verified successfully for user: admin
+[27-Jan-2026 13:52:32 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 13:52:32 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 13:52:32 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 14:00:07 UTC] Login attempt for username: admin
+[27-Jan-2026 14:00:07 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 14:00:07 UTC] Found user: admin
+[27-Jan-2026 14:00:07 UTC] Password verified successfully for user: admin
+[27-Jan-2026 14:00:07 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 14:00:07 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 14:00:07 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 14:04:03 UTC] Login attempt for username: admin
+[27-Jan-2026 14:04:03 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 14:04:03 UTC] Found user: admin
+[27-Jan-2026 14:04:03 UTC] Password verified successfully for user: admin
+[27-Jan-2026 14:04:03 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 14:04:03 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 14:04:03 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 14:36:38 UTC] Login attempt for username: admin
+[27-Jan-2026 14:36:38 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 14:36:38 UTC] Found user: admin
+[27-Jan-2026 14:36:38 UTC] Password verified successfully for user: admin
+[27-Jan-2026 14:36:38 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 14:36:38 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 14:36:38 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 14:40:07 UTC] Login attempt for username: admin
+[27-Jan-2026 14:40:07 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 14:40:07 UTC] Found user: admin
+[27-Jan-2026 14:40:07 UTC] Password verified successfully for user: admin
+[27-Jan-2026 14:40:07 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 14:40:07 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 14:40:07 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 14:41:08 UTC] Login attempt for username: admin
+[27-Jan-2026 14:41:08 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 14:41:08 UTC] Found user: admin
+[27-Jan-2026 14:41:09 UTC] Password verified successfully for user: admin
+[27-Jan-2026 14:41:09 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 14:41:09 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 14:41:09 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 14:46:44 UTC] Login attempt for username: admin
+[27-Jan-2026 14:46:44 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 14:46:44 UTC] Found user: admin
+[27-Jan-2026 14:46:44 UTC] Password verified successfully for user: admin
+[27-Jan-2026 14:46:44 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 14:46:44 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 14:46:44 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 14:49:48 UTC] Login attempt for username: admin
+[27-Jan-2026 14:49:48 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 14:49:48 UTC] Found user: admin
+[27-Jan-2026 14:49:48 UTC] Password verified successfully for user: admin
+[27-Jan-2026 14:49:48 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 14:49:48 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 14:49:48 UTC] Session variables set for user: admin, Role: admin
+[27-Jan-2026 14:51:51 UTC] Login attempt for username: admin
+[27-Jan-2026 14:51:51 UTC] Loaded 3 users from db.json.
+[27-Jan-2026 14:51:51 UTC] Found user: admin
+[27-Jan-2026 14:51:51 UTC] Password verified successfully for user: admin
+[27-Jan-2026 14:51:51 UTC] Login SUCCESS for user: admin
+[27-Jan-2026 14:51:51 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[27-Jan-2026 14:51:51 UTC] Session variables set for user: admin, Role: admin
+[28-Jan-2026 08:09:44 UTC] Login attempt for username: admin
+[28-Jan-2026 08:09:44 UTC] Loaded 3 users from db.json.
+[28-Jan-2026 08:09:44 UTC] Found user: admin
+[28-Jan-2026 08:09:44 UTC] Password verified successfully for user: admin
+[28-Jan-2026 08:09:44 UTC] Login SUCCESS for user: admin
+[28-Jan-2026 08:09:44 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[28-Jan-2026 08:09:44 UTC] Session variables set for user: admin, Role: admin
+[28-Jan-2026 13:20:09 UTC] Login attempt for username: admin
+[28-Jan-2026 13:20:09 UTC] Loaded 3 users from db.json.
+[28-Jan-2026 13:20:09 UTC] Found user: admin
+[28-Jan-2026 13:20:09 UTC] Password verified successfully for user: admin
+[28-Jan-2026 13:20:09 UTC] Login SUCCESS for user: admin
+[28-Jan-2026 13:20:09 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[28-Jan-2026 13:20:09 UTC] Session variables set for user: admin, Role: admin
+[28-Jan-2026 13:23:21 UTC] Login attempt for username: admin
+[28-Jan-2026 13:23:21 UTC] Loaded 3 users from db.json.
+[28-Jan-2026 13:23:21 UTC] Found user: admin
+[28-Jan-2026 13:23:21 UTC] Password verified successfully for user: admin
+[28-Jan-2026 13:23:21 UTC] Login SUCCESS for user: admin
+[28-Jan-2026 13:23:21 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[28-Jan-2026 13:23:21 UTC] Session variables set for user: admin, Role: admin
+[28-Jan-2026 13:32:51 UTC] Login attempt for username: admin
+[28-Jan-2026 13:32:51 UTC] Loaded 3 users from db.json.
+[28-Jan-2026 13:32:51 UTC] Found user: admin
+[28-Jan-2026 13:32:51 UTC] Password verified successfully for user: admin
+[28-Jan-2026 13:32:51 UTC] Login SUCCESS for user: admin
+[28-Jan-2026 13:32:51 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[28-Jan-2026 13:32:51 UTC] Session variables set for user: admin, Role: admin
+[28-Jan-2026 13:38:26 UTC] Login attempt for username: admin
+[28-Jan-2026 13:38:26 UTC] Loaded 3 users from db.json.
+[28-Jan-2026 13:38:26 UTC] Found user: admin
+[28-Jan-2026 13:38:26 UTC] Password verified successfully for user: admin
+[28-Jan-2026 13:38:26 UTC] Login SUCCESS for user: admin
+[28-Jan-2026 13:38:26 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[28-Jan-2026 13:38:26 UTC] Session variables set for user: admin, Role: admin
+[28-Jan-2026 14:37:14 UTC] Login attempt for username: admin
+[28-Jan-2026 14:37:14 UTC] Loaded 3 users from db.json.
+[28-Jan-2026 14:37:14 UTC] Found user: admin
+[28-Jan-2026 14:37:14 UTC] Password verified successfully for user: admin
+[28-Jan-2026 14:37:14 UTC] Login SUCCESS for user: admin
+[28-Jan-2026 14:37:14 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[28-Jan-2026 14:37:14 UTC] Session variables set for user: admin, Role: admin
+[28-Jan-2026 15:09:50 UTC] Login attempt for username: admin
+[28-Jan-2026 15:09:50 UTC] Loaded 3 users from db.json.
+[28-Jan-2026 15:09:50 UTC] Found user: admin
+[28-Jan-2026 15:09:50 UTC] Password verified successfully for user: admin
+[28-Jan-2026 15:09:50 UTC] Login SUCCESS for user: admin
+[28-Jan-2026 15:09:50 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[28-Jan-2026 15:09:50 UTC] Session variables set for user: admin, Role: admin
+[28-Jan-2026 15:10:20 UTC] Login attempt for username: admin
+[28-Jan-2026 15:10:20 UTC] Loaded 3 users from db.json.
+[28-Jan-2026 15:10:20 UTC] Found user: admin
+[28-Jan-2026 15:10:20 UTC] Password verified successfully for user: admin
+[28-Jan-2026 15:10:20 UTC] Login SUCCESS for user: admin
+[28-Jan-2026 15:10:20 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[28-Jan-2026 15:10:20 UTC] Session variables set for user: admin, Role: admin
+[29-Jan-2026 07:40:36 UTC] Login attempt for username: admin
+[29-Jan-2026 07:40:36 UTC] Loaded 3 users from db.json.
+[29-Jan-2026 07:40:36 UTC] Found user: admin
+[29-Jan-2026 07:40:36 UTC] Password verified successfully for user: admin
+[29-Jan-2026 07:40:36 UTC] Login SUCCESS for user: admin
+[29-Jan-2026 07:40:36 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[29-Jan-2026 07:40:36 UTC] Session variables set for user: admin, Role: admin
+[30-Jan-2026 07:56:57 UTC] Login attempt for username: admin
+[30-Jan-2026 07:56:57 UTC] Loaded 3 users from db.json.
+[30-Jan-2026 07:56:57 UTC] Found user: admin
+[30-Jan-2026 07:56:57 UTC] Password verified successfully for user: admin
+[30-Jan-2026 07:56:57 UTC] Login SUCCESS for user: admin
+[30-Jan-2026 07:56:57 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 07:56:57 UTC] Session variables set for user: admin, Role: admin
+[30-Jan-2026 08:01:28 UTC] Login attempt for username: admin
+[30-Jan-2026 08:01:28 UTC] Loaded 3 users from db.json.
+[30-Jan-2026 08:01:28 UTC] Found user: admin
+[30-Jan-2026 08:01:28 UTC] Password verified successfully for user: admin
+[30-Jan-2026 08:01:28 UTC] Login SUCCESS for user: admin
+[30-Jan-2026 08:01:28 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 08:01:28 UTC] Session variables set for user: admin, Role: admin
+[30-Jan-2026 08:11:23 UTC] Login attempt for username: admin
+[30-Jan-2026 08:11:23 UTC] Loaded 3 users from db.json.
+[30-Jan-2026 08:11:23 UTC] Found user: admin
+[30-Jan-2026 08:11:23 UTC] Password verified successfully for user: admin
+[30-Jan-2026 08:11:23 UTC] Login SUCCESS for user: admin
+[30-Jan-2026 08:11:23 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 08:11:23 UTC] Session variables set for user: admin, Role: admin
+[30-Jan-2026 13:36:09 UTC] Login attempt for username: admin
+[30-Jan-2026 13:36:09 UTC] Loaded 3 users from db.json.
+[30-Jan-2026 13:36:09 UTC] Found user: admin
+[30-Jan-2026 13:36:09 UTC] Password verified successfully for user: admin
+[30-Jan-2026 13:36:09 UTC] Login SUCCESS for user: admin
+[30-Jan-2026 13:36:09 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 13:36:09 UTC] Session variables set for user: admin, Role: admin
+[30-Jan-2026 13:40:10 UTC] Login attempt for username: admin
+[30-Jan-2026 13:40:10 UTC] Loaded 3 users from db.json.
+[30-Jan-2026 13:40:10 UTC] Found user: admin
+[30-Jan-2026 13:40:10 UTC] Password verified successfully for user: admin
+[30-Jan-2026 13:40:10 UTC] Login SUCCESS for user: admin
+[30-Jan-2026 13:40:10 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[30-Jan-2026 13:40:10 UTC] Session variables set for user: admin, Role: admin
+[02-Feb-2026 09:36:54 UTC] Login attempt for username: admin
+[02-Feb-2026 09:36:54 UTC] Loaded 3 users from db.json.
+[02-Feb-2026 09:36:54 UTC] Found user: admin
+[02-Feb-2026 09:36:54 UTC] Password verified successfully for user: admin
+[02-Feb-2026 09:36:54 UTC] Login SUCCESS for user: admin
+[02-Feb-2026 09:36:54 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[02-Feb-2026 09:36:54 UTC] Session variables set for user: admin, Role: admin
+[02-Feb-2026 15:32:41 UTC] Login attempt for username: admin
+[02-Feb-2026 15:32:41 UTC] Loaded 3 users from db.json.
+[02-Feb-2026 15:32:41 UTC] Found user: admin
+[02-Feb-2026 15:32:41 UTC] Password verified successfully for user: admin
+[02-Feb-2026 15:32:41 UTC] Login SUCCESS for user: admin
+[02-Feb-2026 15:32:41 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[02-Feb-2026 15:32:41 UTC] Session variables set for user: admin, Role: admin
+[02-Feb-2026 16:13:21 UTC] Login attempt for username: admin
+[02-Feb-2026 16:13:21 UTC] Loaded 3 users from db.json.
+[02-Feb-2026 16:13:21 UTC] Found user: admin
+[02-Feb-2026 16:13:21 UTC] Password verified successfully for user: admin
+[02-Feb-2026 16:13:21 UTC] Login SUCCESS for user: admin
+[02-Feb-2026 16:13:21 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[02-Feb-2026 16:13:21 UTC] Session variables set for user: admin, Role: admin
+[02-Feb-2026 16:15:20 UTC] Login attempt for username: admin
+[02-Feb-2026 16:15:20 UTC] Loaded 3 users from db.json.
+[02-Feb-2026 16:15:20 UTC] Found user: admin
+[02-Feb-2026 16:15:20 UTC] Password verified successfully for user: admin
+[02-Feb-2026 16:15:20 UTC] Login SUCCESS for user: admin
+[02-Feb-2026 16:15:20 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[02-Feb-2026 16:15:20 UTC] Session variables set for user: admin, Role: admin
+[02-Feb-2026 17:33:09 UTC] Login attempt for username: admin
+[02-Feb-2026 17:33:09 UTC] Loaded 3 users from db.json.
+[02-Feb-2026 17:33:09 UTC] Found user: admin
+[02-Feb-2026 17:33:09 UTC] Password verified successfully for user: admin
+[03-Feb-2026 06:59:26 UTC] Login attempt for username: admin
+[03-Feb-2026 06:59:26 UTC] Loaded 3 users from db.json.
+[03-Feb-2026 06:59:26 UTC] Found user: admin
+[03-Feb-2026 06:59:26 UTC] Password verified successfully for user: admin
+[03-Feb-2026 06:59:26 UTC] Login SUCCESS for user: admin
+[03-Feb-2026 06:59:26 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[03-Feb-2026 06:59:26 UTC] Session variables set for user: admin, Role: admin
+[04-Feb-2026 14:18:09 UTC] Login attempt for username: admin
+[04-Feb-2026 14:18:09 UTC] Loaded 3 users from db.json.
+[04-Feb-2026 14:18:09 UTC] Found user: admin
+[04-Feb-2026 14:18:09 UTC] Password verified successfully for user: admin
+[04-Feb-2026 14:18:09 UTC] Login SUCCESS for user: admin
+[04-Feb-2026 14:18:09 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[04-Feb-2026 14:18:09 UTC] Session variables set for user: admin, Role: admin
+[06-Feb-2026 13:52:55 UTC] Login attempt for username: admin
+[06-Feb-2026 13:52:55 UTC] Loaded 3 users from db.json.
+[06-Feb-2026 13:52:55 UTC] Found user: admin
+[06-Feb-2026 13:52:55 UTC] Password verified successfully for user: admin
+[06-Feb-2026 13:52:55 UTC] Login SUCCESS for user: admin
+[06-Feb-2026 13:52:55 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[06-Feb-2026 13:52:55 UTC] Session variables set for user: admin, Role: admin
+[09-Feb-2026 17:58:31 UTC] Login attempt for username: admin
+[09-Feb-2026 17:58:31 UTC] Loaded 3 users from db.json.
+[09-Feb-2026 17:58:31 UTC] Found user: admin
+[09-Feb-2026 17:58:31 UTC] Password verified successfully for user: admin
+[09-Feb-2026 17:58:31 UTC] Login SUCCESS for user: admin
+[09-Feb-2026 17:58:31 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[09-Feb-2026 17:58:31 UTC] Session variables set for user: admin, Role: admin
+[11-Feb-2026 13:45:47 UTC] Login attempt for username: admin
+[11-Feb-2026 13:45:47 UTC] Loaded 3 users from db.json.
+[11-Feb-2026 13:45:47 UTC] Found user: admin
+[11-Feb-2026 13:45:47 UTC] Password verified successfully for user: admin
+[11-Feb-2026 13:45:47 UTC] Login SUCCESS for user: admin
+[11-Feb-2026 13:45:47 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[11-Feb-2026 13:45:47 UTC] Session variables set for user: admin, Role: admin
+[13-Feb-2026 15:13:46 UTC] Login attempt for username: admin
+[13-Feb-2026 15:13:46 UTC] Loaded 3 users from db.json.
+[13-Feb-2026 15:13:46 UTC] Found user: admin
+[13-Feb-2026 15:13:46 UTC] Password verified successfully for user: admin
+[13-Feb-2026 15:13:46 UTC] Login SUCCESS for user: admin
+[13-Feb-2026 15:13:46 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[13-Feb-2026 15:13:46 UTC] Session variables set for user: admin, Role: admin
+[13-Feb-2026 15:16:40 UTC] Login attempt for username: admin
+[13-Feb-2026 15:16:40 UTC] Loaded 3 users from db.json.
+[13-Feb-2026 15:16:40 UTC] Found user: admin
+[13-Feb-2026 15:16:40 UTC] Password verified successfully for user: admin
+[13-Feb-2026 15:16:40 UTC] Login SUCCESS for user: admin
+[13-Feb-2026 15:16:40 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[13-Feb-2026 15:16:40 UTC] Session variables set for user: admin, Role: admin
+[13-Feb-2026 15:19:24 UTC] Login attempt for username: admin
+[13-Feb-2026 15:19:24 UTC] Loaded 3 users from db.json.
+[13-Feb-2026 15:19:24 UTC] Found user: admin
+[13-Feb-2026 15:19:24 UTC] Password verified successfully for user: admin
+[13-Feb-2026 15:19:24 UTC] Login SUCCESS for user: admin
+[13-Feb-2026 15:19:24 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[13-Feb-2026 15:19:24 UTC] Session variables set for user: admin, Role: admin
+[18-Feb-2026 10:56:15 UTC] Login attempt for username: admin
+[18-Feb-2026 10:56:15 UTC] Loaded 3 users from db.json.
+[18-Feb-2026 10:56:15 UTC] Found user: admin
+[18-Feb-2026 10:56:15 UTC] Password verified successfully for user: admin
+[18-Feb-2026 10:56:15 UTC] Login SUCCESS for user: admin
+[18-Feb-2026 10:56:15 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[18-Feb-2026 10:56:15 UTC] Session variables set for user: admin, Role: admin
+[18-Feb-2026 10:59:43 UTC] Login attempt for username: admin
+[18-Feb-2026 10:59:43 UTC] Loaded 3 users from db.json.
+[18-Feb-2026 10:59:43 UTC] Found user: admin
+[18-Feb-2026 10:59:43 UTC] Password verified successfully for user: admin
+[18-Feb-2026 10:59:43 UTC] Login SUCCESS for user: admin
+[18-Feb-2026 10:59:43 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[18-Feb-2026 10:59:43 UTC] Session variables set for user: admin, Role: admin
+[02-Mar-2026 08:02:33 UTC] Login attempt for username: admin
+[02-Mar-2026 08:02:33 UTC] Loaded 3 users from db.json.
+[02-Mar-2026 08:02:33 UTC] Found user: admin
+[02-Mar-2026 08:02:33 UTC] Password verified successfully for user: admin
+[02-Mar-2026 08:02:33 UTC] Login SUCCESS for user: admin
+[02-Mar-2026 08:02:33 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[02-Mar-2026 08:02:33 UTC] Session variables set for user: admin, Role: admin
+[02-Mar-2026 08:11:13 UTC] Login attempt for username: admin
+[02-Mar-2026 08:11:13 UTC] Loaded 3 users from db.json.
+[02-Mar-2026 08:11:13 UTC] Found user: admin
+[02-Mar-2026 08:11:13 UTC] Password verified successfully for user: admin
+[02-Mar-2026 08:11:13 UTC] Login SUCCESS for user: admin
+[02-Mar-2026 08:11:13 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[02-Mar-2026 08:11:13 UTC] Session variables set for user: admin, Role: admin
+[02-Mar-2026 11:48:43 UTC] Login attempt for username: admin
+[02-Mar-2026 11:48:43 UTC] Loaded 3 users from db.json.
+[02-Mar-2026 11:48:43 UTC] Found user: admin
+[02-Mar-2026 11:48:43 UTC] Password verified successfully for user: admin
+[02-Mar-2026 11:48:43 UTC] Login SUCCESS for user: admin
+[02-Mar-2026 11:48:43 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[02-Mar-2026 11:48:43 UTC] Session variables set for user: admin, Role: admin
+[09-Mar-2026 10:02:18 UTC] Login attempt for username: admin
+[09-Mar-2026 10:02:18 UTC] Loaded 3 users from db.json.
+[09-Mar-2026 10:02:18 UTC] Found user: admin
+[09-Mar-2026 10:02:18 UTC] Password verified successfully for user: admin
+[09-Mar-2026 10:02:18 UTC] Login SUCCESS for user: admin
+[09-Mar-2026 10:02:18 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[09-Mar-2026 10:02:18 UTC] Session variables set for user: admin, Role: admin
+[09-Mar-2026 10:08:27 UTC] Login attempt for username: admin
+[09-Mar-2026 10:08:27 UTC] Loaded 3 users from db.json.
+[09-Mar-2026 10:08:27 UTC] Found user: admin
+[09-Mar-2026 10:08:27 UTC] Password verified successfully for user: admin
+[09-Mar-2026 10:08:27 UTC] Login SUCCESS for user: admin
+[09-Mar-2026 10:08:27 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[09-Mar-2026 10:08:27 UTC] Session variables set for user: admin, Role: admin
+[09-Mar-2026 22:22:31 UTC] Login attempt for username: admin
+[09-Mar-2026 22:22:31 UTC] Loaded 3 users from db.json.
+[09-Mar-2026 22:22:31 UTC] Found user: admin
+[09-Mar-2026 22:22:31 UTC] Password verified successfully for user: admin
+[09-Mar-2026 22:22:31 UTC] Login SUCCESS for user: admin
+[09-Mar-2026 22:22:31 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[09-Mar-2026 22:22:31 UTC] Session variables set for user: admin, Role: admin
+[09-Mar-2026 22:23:00 UTC] Login attempt for username: admin
+[09-Mar-2026 22:23:00 UTC] Loaded 3 users from db.json.
+[09-Mar-2026 22:23:00 UTC] Found user: admin
+[09-Mar-2026 22:23:01 UTC] Password verified successfully for user: admin
+[09-Mar-2026 22:23:01 UTC] Login SUCCESS for user: admin
+[09-Mar-2026 22:23:01 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[09-Mar-2026 22:23:01 UTC] Session variables set for user: admin, Role: admin
+[26-Mar-2026 13:31:51 UTC] Login attempt for username: admin
+[26-Mar-2026 13:31:51 UTC] Loaded 3 users from db.json.
+[26-Mar-2026 13:31:51 UTC] Found user: admin
+[26-Mar-2026 13:31:51 UTC] Password verified successfully for user: admin
+[26-Mar-2026 13:31:51 UTC] Login SUCCESS for user: admin
+[26-Mar-2026 13:31:51 UTC] SecurityHelper Error: Decryption key must be 32 bytes long.
+[26-Mar-2026 13:31:51 UTC] Session variables set for user: admin, Role: admin

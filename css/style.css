@@ -1,0 +1,722 @@
+/*
+ * Med-Quick - Secure Pharmacy POS
+ * Professional Dark CSS
+ *
+ * Author: Gemini CLI
+ * Version: 1.0.0
+ *
+ * Theme Colors:
+ * - Background: #0D1117
+ * - Cards/Elements: #161B22
+ * - Accent: Emerald Green (#00C851)
+ * - Text: #c9d1d9
+ */
+
+/* =================================================================
+ * Global Styles & Resets
+ * ================================================================= */
+:root {
+    /* Default Dark Theme */
+    --bg-primary: #0D1117;
+    --card-bg: #161B22;
+    --text-primary: #c9d1d9;
+    --text-secondary: #8b949e;
+    --border-color: #30363d;
+    --accent-green: #2ecc71;
+    --accent-green-hover: #27ae60;
+    --bg-input: #0D1117;
+}
+
+[data-theme='light'] {
+    --bg-primary: #f4f6f8;
+    --card-bg: #ffffff;
+    --text-primary: #24292f;
+    --text-secondary: #57606a;
+    --border-color: #d0d7de;
+    --accent-green: #2ecc71; /* Keep brand color */
+    --accent-green-hover: #27ae60;
+    --bg-input: #ffffff;
+}
+
+/* Map legacy variables to new theme variables */
+:root {
+    --bg-dark: var(--bg-primary);
+    --card-dark: var(--card-bg);
+    --bg-dark-input: var(--bg-input); /* Alias for inputs */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+a {
+    color: var(--accent-green);
+    text-decoration: none;
+}
+
+/* =================================================================
+ * Custom Scrollbar
+ * ================================================================= */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--card-dark);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--accent-green);
+    border-radius: 10px;
+    border: 2px solid var(--card-dark);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--accent-green-hover);
+}
+
+/* =================================================================
+ * Main Layout: Container, Sidebar, Header, Main Content
+ * ================================================================= */
+.app-container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 240px;
+    background-color: var(--card-dark);
+    border-right: 1px solid var(--border-color);
+    padding: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    transition: width 0.3s ease;
+}
+
+.sidebar-header {
+    padding: 0 1.5rem 1rem;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.sidebar-header .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--accent-green);
+}
+
+.sidebar-nav {
+    list-style: none;
+    flex-grow: 1;
+    overflow-y: auto;
+}
+
+.sidebar-nav li a {
+    display: flex;
+    align-items: center;
+    padding: 0.9rem 1.5rem;
+    color: var(--text-primary);
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.sidebar-nav li a:hover {
+    background-color: rgba(0, 200, 81, 0.1);
+    color: var(--accent-green);
+}
+
+.sidebar-nav li a.active {
+    background-color: var(--accent-green);
+    color: #fff;
+    font-weight: 500;
+}
+
+.sidebar-nav li a i {
+    width: 30px;
+    text-align: center;
+    margin-right: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.main-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.main-header {
+    background: rgba(22, 27, 34, 0.8);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border-color);
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+}
+
+.security-status {
+    background-color: rgba(0, 200, 81, 0.2);
+    color: var(--accent-green);
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    border: 1px solid var(--accent-green);
+}
+
+.user-profile a {
+    display: flex;
+    align-items: center;
+    color: var(--text-primary);
+}
+
+.user-profile img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+    border: 2px solid var(--border-color);
+}
+
+#main-content {
+    flex: 1;
+    padding: 2rem;
+    overflow-y: auto;
+}
+
+/* =================================================================
+ * POS Terminal Grid
+ * ================================================================= */
+.pos-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+    height: calc(100vh - 150px); /* Adjust based on header/footer */
+}
+
+.pos-left, .pos-right {
+    background-color: var(--card-dark);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.search-bar {
+    margin-bottom: 1.5rem;
+}
+
+.search-bar input {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: var(--bg-dark);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    color: var(--text-primary);
+    font-size: 1rem;
+}
+
+.item-grid {
+    flex-grow: 1;
+    overflow-y: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+}
+
+.billing-summary {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.billing-summary h3 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+    color: var(--accent-green);
+}
+
+.cart-items {
+    flex-grow: 1;
+    overflow-y: auto;
+    margin-bottom: 1rem;
+}
+
+.totals-section, .payment-section {
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.totals-section div {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+.totals-section .grand-total {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: var(--accent-green);
+}
+
+/* =================================================================
+ * General Component Styles: Buttons, Forms, Cards
+ * ================================================================= */
+.btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 1rem;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.btn-primary {
+    background-color: var(--accent-green);
+    color: #0D1117;
+}
+
+.btn-primary:hover {
+    background-color: var(--accent-green-hover);
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+    border: 1px solid #218838;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+.btn-success {
+    background-color: #28a745; /* Bootstrap success green */
+    color: #fff;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+.btn-secondary {
+
+    background-color: #3d464e; /* Darker, more subtle grey */
+
+    color: #fff;
+
+    border: 1px solid #4a545d;
+
+    border-radius: 4px;
+
+    padding: 0.5rem 1rem; /* Adjusted padding */
+
+}
+
+
+
+.btn-secondary:hover {
+
+    background-color: #4a545d;
+
+    border-color: #5d6771;
+
+}
+
+
+
+.btn-danger {
+
+    background-color: #b73a4b; /* Darker, more subtle red */
+
+    color: #fff;
+
+    border: 1px solid #c84556;
+
+    border-radius: 4px;
+
+    padding: 0.5rem 1rem; /* Adjusted padding */
+
+}
+
+
+
+.btn-danger:hover {
+
+    background-color: #c84556;
+
+    border-color: #d95667;
+
+}
+
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+.btn-block {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+/* Form Styles */
+.form-card {
+    background-color: var(--card-dark);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1.5rem;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.form-control {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: var(--bg-dark);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    color: var(--text-primary);
+    font-size: 1rem;
+    -webkit-appearance: none; /* Remove default styling for some elements */
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.form-control:focus {
+    border-color: var(--accent-green);
+    outline: none;
+    box-shadow: 0 0 0 0.1rem rgba(0, 200, 81, 0.25);
+}
+
+.form-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+/* Message containers for forms */
+.form-message {
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.form-message.success {
+    background-color: rgba(40, 167, 69, 0.2);
+    color: #28a745;
+    border: 1px solid #28a745;
+}
+
+.form-message.error {
+    background-color: rgba(220, 53, 69, 0.2);
+    color: #dc3545;
+    border: 1px solid #dc3545;
+}
+
+/* =================================================================
+ * POS Item Grid Cards
+ * ================================================================= */
+.medicine-card {
+    background-color: var(--bg-dark);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 1rem;
+    cursor: pointer;
+    transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.medicine-card:hover {
+    border-color: var(--accent-green);
+    transform: translateY(-2px);
+}
+
+.card-expired {
+    background-color: #ff4d4d !important;
+    color: white !important;
+    border: 2px solid darkred !important;
+}
+
+.card-expired h4, 
+.card-expired p, 
+.card-expired .price, 
+.card-expired .medicine-type {
+    color: white !important;
+}
+
+.card-low-stock {
+    background-color: #ffeb3b !important;
+    color: black !important;
+    border: 2px solid orange !important;
+}
+
+.card-low-stock h4, 
+.card-low-stock p, 
+.card-low-stock .price, 
+.card-low-stock .medicine-type {
+    color: black !important;
+}
+
+.status-label {
+    font-weight: bold;
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.label-expired {
+    background-color: darkred;
+    color: white;
+}
+
+.label-low-stock {
+    background-color: orange;
+    color: black;
+}
+
+.medicine-card h4 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.medicine-card p {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.25rem;
+}
+
+.medicine-card .price {
+    font-weight: bold;
+    color: var(--accent-green);
+    margin-top: 0.75rem;
+    font-size: 1rem;
+}
+
+.medicine-card .stock {
+    font-size: 0.8rem;
+}
+
+.stock-warning {
+    color: #ff5252;
+    font-weight: bold;
+}
+
+.medicine-type {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+    font-style: italic;
+    opacity: 0.8;
+}
+
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--border-color);
+}
+.cart-item:last-child {
+    border-bottom: none;
+}
+.cart-item .item-name {
+    flex-grow: 1;
+}
+.cart-item .item-qty {
+    width: 50px;
+    margin: 0 0.5rem;
+    text-align: center;
+    background-color: var(--bg-dark);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    border-radius: 4px;
+}
+.cart-item .item-price {
+    font-weight: 500;
+}
+
+/* =================================================================
+ * Modal Styles
+ * ================================================================= */
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: var(--card-dark);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    width: 90%;
+    max-width: 600px;
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    animation: fadeIn 0.3s ease-out;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.modal-header h3 {
+    color: var(--accent-green);
+}
+
+.modal-close {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    font-size: 2rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.modal-body {
+    padding: 1.5rem;
+    overflow-y: auto;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.cart-item .remove-from-cart-btn {
+    background: transparent;
+    border: none;
+    color: var(--accent-red, #dc3545);
+    font-size: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0 0.5rem;
+    margin-left: 1rem;
+    transition: color 0.2s ease;
+}
+
+.cart-item .remove-from-cart-btn:hover {
+    color: #ff4d4d;
+}
+
+/* Stock Management Action Buttons */
+.table-container .btn-sm {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+    line-height: 1.2;
+    margin-right: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid transparent;
+}
+
+.table-container .btn-sm:last-child {
+    margin-right: 0;
+}
+
+/* Action Buttons for User Management and Tables */
+.btn-action-edit, .btn-action-delete {
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s ease, transform 0.1s ease;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn-action-edit {
+    background-color: #2ecc71;
+    color: white !important;
+    margin-right: 5px;
+}
+
+.btn-action-edit:hover {
+    background-color: #27ae60;
+}
+
+.btn-action-delete {
+    background-color: #e74c3c;
+    color: white !important;
+}
+
+.btn-action-delete:hover {
+    background-color: #c0392b;
+}
+
+.btn-action-edit:active, .btn-action-delete:active {
+    transform: scale(0.95);
+}
+
+/* Support Buttons */
+.btn-support {
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background 0.3s ease, transform 0.1s ease;
+    font-weight: 600;
+}
+.btn-support:hover {
+    background-color: #27ae60;
+}
+.btn-support:active {
+    transform: scale(0.98);
+}

@@ -1,0 +1,2226 @@
+{
+    "medicines": [
+        {
+            "id": 1,
+            "name": "Paracetamol",
+            "barcode": "8901234567890",
+            "strength": "500mg",
+            "category_id": 1,
+            "manufacturer_id": 1,
+            "generic_salt_id": 1,
+            "mrp": 25.5,
+            "tax_rate": 5,
+            "requires_prescription": false,
+            "medicine_type": "Tablet"
+        },
+        {
+            "id": 2,
+            "name": "Ibuprofen",
+            "barcode": "8909876543210",
+            "strength": "200mg",
+            "category_id": 1,
+            "manufacturer_id": 2,
+            "generic_salt_id": 2,
+            "mrp": 45,
+            "tax_rate": 5,
+            "requires_prescription": false,
+            "medicine_type": "Syrup"
+        },
+        {
+            "id": 3,
+            "name": "Azithromycin",
+            "barcode": "8901122334455",
+            "strength": "500mg",
+            "category_id": 2,
+            "manufacturer_id": 1,
+            "generic_salt_id": 3,
+            "mrp": 110,
+            "tax_rate": 12,
+            "requires_prescription": true
+        },
+        {
+            "id": 4,
+            "name": "Test Medicine",
+            "barcode": "1234567890",
+            "strength": "10mg",
+            "category_id": 1,
+            "manufacturer_id": 1,
+            "generic_salt_id": 1,
+            "mrp": 10.5,
+            "tax_rate": 5,
+            "requires_prescription": false
+        },
+        {
+            "id": 5,
+            "name": "Nims",
+            "barcode": "12345",
+            "strength": "30",
+            "category_id": 4,
+            "manufacturer_id": 2,
+            "generic_salt_id": 3,
+            "mrp": 0.67,
+            "tax_rate": 5,
+            "requires_prescription": true,
+            "medicine_type": "Tablet"
+        },
+        {
+            "id": 6,
+            "name": "Nims",
+            "barcode": "12345",
+            "strength": "30",
+            "category_id": 4,
+            "manufacturer_id": 2,
+            "generic_salt_id": 3,
+            "mrp": 0.84,
+            "tax_rate": 5,
+            "requires_prescription": true,
+            "medicine_type": "Tablet"
+        },
+        {
+            "id": 7,
+            "name": "Nims",
+            "barcode": "12345",
+            "strength": "30",
+            "category_id": 4,
+            "manufacturer_id": 1,
+            "generic_salt_id": 3,
+            "mrp": 0.81,
+            "tax_rate": 5,
+            "requires_prescription": false,
+            "medicine_type": "Tablet"
+        },
+        {
+            "id": 8,
+            "name": "Panadol",
+            "barcode": "123456",
+            "strength": "12",
+            "category_id": 4,
+            "manufacturer_id": 2,
+            "generic_salt_id": 1,
+            "mrp": 0.78,
+            "tax_rate": 5,
+            "requires_prescription": false
+        },
+        {
+            "id": 9,
+            "name": "Calamox",
+            "barcode": "1234567",
+            "strength": "30",
+            "category_id": 2,
+            "manufacturer_id": 2,
+            "generic_salt_id": 2,
+            "mrp": 0.87,
+            "tax_rate": 5,
+            "requires_prescription": false
+        },
+        {
+            "id": 10,
+            "name": "OHD-Pulse",
+            "barcode": "12345678",
+            "strength": "",
+            "category_id": 3,
+            "manufacturer_id": 2,
+            "generic_salt_id": 2,
+            "mrp": 0.84,
+            "tax_rate": 5,
+            "requires_prescription": false
+        },
+        {
+            "id": 11,
+            "name": "Panadol",
+            "barcode": "12345",
+            "strength": "500",
+            "category_id": 1,
+            "manufacturer_id": 1,
+            "generic_salt_id": 1,
+            "mrp": 0.89,
+            "tax_rate": 5,
+            "requires_prescription": true
+        },
+        {
+            "id": 12,
+            "name": "Brufen",
+            "barcode": "123456",
+            "strength": "400",
+            "category_id": 5,
+            "manufacturer_id": 1,
+            "generic_salt_id": 2,
+            "mrp": 0.87,
+            "tax_rate": 5,
+            "requires_prescription": true,
+            "medicine_type": "Tablet"
+        },
+        {
+            "id": 13,
+            "name": "Calpol",
+            "barcode": "1234567",
+            "strength": "250",
+            "category_id": 1,
+            "manufacturer_id": 1,
+            "generic_salt_id": 1,
+            "mrp": 0.78,
+            "tax_rate": 5,
+            "requires_prescription": false,
+            "medicine_type": "Tablet"
+        },
+        {
+            "id": 14,
+            "name": "Ansaid",
+            "barcode": "12345678",
+            "strength": "100",
+            "category_id": 5,
+            "manufacturer_id": 1,
+            "generic_salt_id": 0,
+            "mrp": 1.3,
+            "tax_rate": 5,
+            "requires_prescription": false,
+            "medicine_type": "Tablet"
+        },
+        {
+            "id": 15,
+            "name": "Augmentin",
+            "barcode": "123456789",
+            "strength": "625",
+            "category_id": 2,
+            "manufacturer_id": 4,
+            "generic_salt_id": 0,
+            "mrp": 0.69,
+            "tax_rate": 5,
+            "requires_prescription": false,
+            "medicine_type": "Tablet"
+        },
+        {
+            "id": 16,
+            "name": "Amoxil",
+            "barcode": "123456790",
+            "strength": "500",
+            "category_id": 2,
+            "manufacturer_id": 6,
+            "generic_salt_id": 0,
+            "mrp": 0.87,
+            "tax_rate": 5,
+            "requires_prescription": false,
+            "medicine_type": "Tablet"
+        },
+        {
+            "id": 17,
+            "name": "Flagyl",
+            "barcode": "123456791",
+            "strength": "400",
+            "category_id": 2,
+            "manufacturer_id": 4,
+            "generic_salt_id": 0,
+            "mrp": 1.2,
+            "tax_rate": 5,
+            "requires_prescription": false,
+            "medicine_type": "Tablet"
+        }
+    ],
+    "stock_batches": [
+        {
+            "id": 101,
+            "medicine_id": 1,
+            "batch_number": "P12345",
+            "expiry_date": "2026-12-31",
+            "quantity": 89,
+            "cost_price": 20,
+            "selling_price": 25,
+            "status": "deleted"
+        },
+        {
+            "id": 202,
+            "medicine_id": 2,
+            "batch_number": "I67890",
+            "expiry_date": "2027-05-31",
+            "quantity": 24,
+            "cost_price": 35,
+            "selling_price": 44.5,
+            "status": "deleted"
+        },
+        {
+            "id": 303,
+            "medicine_id": 3,
+            "batch_number": "A11223",
+            "expiry_date": "2026-08-31",
+            "quantity": 38,
+            "cost_price": 90,
+            "selling_price": 108,
+            "status": "deleted"
+        },
+        {
+            "id": 304,
+            "medicine_id": 4,
+            "batch_number": "BATCH123",
+            "expiry_date": "2026-12-31",
+            "quantity": 0,
+            "cost_price": 5.25,
+            "selling_price": 8.75,
+            "status": "deleted"
+        },
+        {
+            "id": 305,
+            "medicine_id": 5,
+            "batch_number": "1234",
+            "expiry_date": "2026-03-28",
+            "quantity": 34,
+            "cost_price": 0.76,
+            "selling_price": 1.5,
+            "status": "deleted"
+        },
+        {
+            "id": 306,
+            "medicine_id": 6,
+            "batch_number": "1234",
+            "expiry_date": "2026-02-25",
+            "quantity": 0,
+            "cost_price": 0.98,
+            "selling_price": 1.34,
+            "status": "deleted"
+        },
+        {
+            "id": 307,
+            "medicine_id": 7,
+            "batch_number": "1234",
+            "expiry_date": "2026-02-25",
+            "quantity": 0,
+            "cost_price": 0.91,
+            "selling_price": 1.2,
+            "status": "deleted"
+        },
+        {
+            "id": 308,
+            "medicine_id": 8,
+            "batch_number": "12345",
+            "expiry_date": "2026-01-02",
+            "quantity": 0,
+            "cost_price": 0.89,
+            "selling_price": 1.34,
+            "status": "deleted"
+        },
+        {
+            "id": 309,
+            "medicine_id": 9,
+            "batch_number": "123456",
+            "expiry_date": "2026-01-10",
+            "quantity": 0,
+            "cost_price": 0.97,
+            "selling_price": 1.5,
+            "status": "deleted"
+        },
+        {
+            "id": 310,
+            "medicine_id": 10,
+            "batch_number": "1234567",
+            "expiry_date": "2025-12-25",
+            "quantity": 0,
+            "cost_price": 0.9,
+            "selling_price": 1.6,
+            "status": "deleted"
+        },
+        {
+            "id": 311,
+            "medicine_id": 11,
+            "batch_number": "1234",
+            "expiry_date": "2026-01-10",
+            "quantity": 0,
+            "cost_price": 0.95,
+            "selling_price": 1.6,
+            "status": "deleted"
+        },
+        {
+            "id": 312,
+            "medicine_id": 12,
+            "batch_number": "12345",
+            "expiry_date": "2026-04-22",
+            "quantity": 102,
+            "cost_price": 0.93,
+            "selling_price": 1.4
+        },
+        {
+            "id": 313,
+            "medicine_id": 13,
+            "batch_number": "123456",
+            "expiry_date": "2026-03-20",
+            "quantity": 112,
+            "cost_price": 0.87,
+            "selling_price": 1.3
+        },
+        {
+            "id": 314,
+            "medicine_id": 14,
+            "batch_number": "1234567",
+            "expiry_date": "2026-03-31",
+            "quantity": 115,
+            "cost_price": 1.5,
+            "selling_price": 2
+        },
+        {
+            "id": 315,
+            "medicine_id": 15,
+            "batch_number": "12345678",
+            "expiry_date": "2026-02-27",
+            "quantity": 137,
+            "cost_price": 0.78,
+            "selling_price": 1
+        },
+        {
+            "id": 316,
+            "medicine_id": 16,
+            "batch_number": "12345679",
+            "expiry_date": "2026-02-26",
+            "quantity": 98,
+            "cost_price": 0.78,
+            "selling_price": 1.32
+        },
+        {
+            "id": 317,
+            "medicine_id": 17,
+            "batch_number": "12345680",
+            "expiry_date": "2026-03-21",
+            "quantity": 158,
+            "cost_price": 1.5,
+            "selling_price": 2
+        }
+    ],
+    "sales": [
+        {
+            "id": 1,
+            "transaction_token": "722900086c630a7988a7869831608066",
+            "subtotal": 69.5,
+            "total_tax": 3.48,
+            "grand_total": 72.97,
+            "user_id": 1,
+            "user_name": "Admin User",
+            "created_at": "2025-12-22 14:10:41"
+        },
+        {
+            "id": 2,
+            "transaction_token": "226e7f962b21cee3ac935c0e9854445e",
+            "subtotal": 152.5,
+            "total_tax": 15.18,
+            "grand_total": 167.69,
+            "user_id": 1,
+            "user_name": "Admin User",
+            "created_at": "2025-12-22 14:10:47"
+        },
+        {
+            "id": 3,
+            "transaction_token": "5d9ec2ae4a3b0aaf10e6f004fd1a7ced",
+            "subtotal": 69.5,
+            "total_tax": 3.48,
+            "grand_total": 72.97,
+            "user_id": 1,
+            "user_name": "Admin User",
+            "created_at": "2025-12-22 14:13:36"
+        },
+        {
+            "id": 4,
+            "transaction_token": "b5ef09523274599b972438108063d9c9",
+            "subtotal": 152.5,
+            "total_tax": 15.18,
+            "grand_total": 167.69,
+            "user_id": 1,
+            "user_name": "Admin User",
+            "created_at": "2025-12-23 02:14:41"
+        },
+        {
+            "id": 5,
+            "transaction_token": "53211ac36532f59e9ce49cf66338fd94",
+            "subtotal": 108,
+            "total_tax": 12.96,
+            "grand_total": 120.96,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-23 13:24:49"
+        },
+        {
+            "id": 6,
+            "transaction_token": "3839822aadd758fbee2a1b2a23a80629",
+            "subtotal": 33.75,
+            "total_tax": 1.69,
+            "grand_total": 35.44,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-23 13:32:48"
+        },
+        {
+            "id": 7,
+            "transaction_token": "df8e17a3c6818423a652634a3f0ab4c2",
+            "subtotal": 1.5,
+            "total_tax": 0.08,
+            "grand_total": 1.57,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-23 14:55:21"
+        },
+        {
+            "id": 8,
+            "transaction_token": "892c7d95ee11f2ad884879abf59f35b4",
+            "subtotal": 108,
+            "total_tax": 12.96,
+            "grand_total": 120.96,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-23 14:55:33"
+        },
+        {
+            "id": 9,
+            "transaction_token": "a7f1f54aa31a7320b81ed5c81531d505",
+            "subtotal": 108,
+            "total_tax": 12.96,
+            "grand_total": 120.96,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-24 14:54:12"
+        },
+        {
+            "id": 10,
+            "transaction_token": "21cee907e3143232febd5f14f28c8db8",
+            "subtotal": 1.34,
+            "total_tax": 0.07,
+            "grand_total": 1.41,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-24 15:01:04"
+        },
+        {
+            "id": 11,
+            "transaction_token": "ccfcc382d7dd806d322a7e5186572712",
+            "subtotal": 1.5,
+            "total_tax": 0.08,
+            "grand_total": 1.57,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-27 14:04:01"
+        },
+        {
+            "id": 12,
+            "transaction_token": "84ecdcd4bf320f88d442e1537e81e0af",
+            "subtotal": 1.34,
+            "total_tax": 0.07,
+            "grand_total": 1.41,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-27 14:06:46"
+        },
+        {
+            "id": 13,
+            "transaction_token": "940ac78a6a115b1eb9b24d32cb6dc35e",
+            "subtotal": 4,
+            "total_tax": 0.2,
+            "grand_total": 4.2,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-29 14:35:50"
+        },
+        {
+            "id": 14,
+            "transaction_token": "00b838659d0cc86a2f1fdbbf1e4c653a",
+            "subtotal": 1.3,
+            "total_tax": 0.07,
+            "grand_total": 1.36,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-29 14:37:04"
+        },
+        {
+            "id": 15,
+            "transaction_token": "2c70ca622db747b6fd6d9678f51405ef",
+            "subtotal": 1.3,
+            "total_tax": 0.07,
+            "grand_total": 1.36,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-29 14:39:53"
+        },
+        {
+            "id": 16,
+            "transaction_token": "39b22dd578acbb602b6e49bc253f40bf",
+            "subtotal": 1.32,
+            "total_tax": 0.07,
+            "grand_total": 1.39,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-29 14:40:02"
+        },
+        {
+            "id": 17,
+            "transaction_token": "1f77cf5fbaa14a8e41ad79605b51a899",
+            "subtotal": 1.6,
+            "total_tax": 0.08,
+            "grand_total": 1.68,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-29 14:49:57"
+        },
+        {
+            "id": 18,
+            "transaction_token": "faf96c734e47446f7115554e187aaabd",
+            "subtotal": 1.3,
+            "total_tax": 0.07,
+            "grand_total": 1.36,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-29 14:51:42"
+        },
+        {
+            "id": 19,
+            "transaction_token": "a0782976c9d510cb7c224f647409e2a2",
+            "subtotal": 2,
+            "total_tax": 0.1,
+            "grand_total": 2.1,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-29 14:54:31"
+        },
+        {
+            "id": 20,
+            "transaction_token": "d5bbfd4874abd90f14c2a460e3f49dd5",
+            "subtotal": 1.4,
+            "total_tax": 0.07,
+            "grand_total": 1.47,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-30 13:57:09"
+        },
+        {
+            "id": 21,
+            "transaction_token": "cd5c2e2b827c823d695c75014c532ff6",
+            "subtotal": 1.32,
+            "total_tax": 0.07,
+            "grand_total": 1.39,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2025-12-30 14:28:59"
+        },
+        {
+            "id": 22,
+            "transaction_token": "f0a61314f789a7f9a208e397150774df",
+            "subtotal": 1.4,
+            "total_tax": 0.07,
+            "grand_total": 1.47,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-01 13:52:31"
+        },
+        {
+            "id": 23,
+            "transaction_token": "16adcb0714872cd6b829919baaded38d",
+            "subtotal": 2,
+            "total_tax": 0.1,
+            "grand_total": 2.1,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-03 13:50:01"
+        },
+        {
+            "id": 24,
+            "transaction_token": "1ea47c46415a463a8fc4df14b7f79b11",
+            "subtotal": 4.32,
+            "total_tax": 0.22,
+            "grand_total": 4.54,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-06 14:00:42"
+        },
+        {
+            "id": 25,
+            "transaction_token": "20129b93dab69caf4e2fdb0eac0b373e",
+            "subtotal": 1.3,
+            "total_tax": 0.07,
+            "grand_total": 1.36,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-14 13:56:28"
+        },
+        {
+            "id": 26,
+            "transaction_token": "5973c920885d6adb72eea2798ef81630",
+            "subtotal": 1.4,
+            "total_tax": 0.07,
+            "grand_total": 1.47,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-14 16:36:48"
+        },
+        {
+            "id": 27,
+            "transaction_token": "d646371648ba12d749cc3c752bca1fc4",
+            "subtotal": 2,
+            "total_tax": 0.1,
+            "grand_total": 2.1,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-16 13:03:32"
+        },
+        {
+            "id": 28,
+            "transaction_token": "5537036c5db90cd82f5716305c2dced6",
+            "subtotal": 2,
+            "total_tax": 0.1,
+            "grand_total": 2.1,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-18 17:34:32"
+        },
+        {
+            "id": 29,
+            "transaction_token": "f4aa80c676526774e6ab4baf5caf60a6",
+            "subtotal": 1.4,
+            "total_tax": 0.07,
+            "grand_total": 1.47,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-18 18:02:53"
+        },
+        {
+            "id": 30,
+            "transaction_token": "3a876cf2f91ded6606a969414a53802a",
+            "customer_id": 1,
+            "subtotal": 2,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 0.1,
+            "grand_total": 2.1,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-19 14:10:30"
+        },
+        {
+            "id": 31,
+            "transaction_token": "a0443f912d953f47e1f69fb6d5464576",
+            "customer_id": 2,
+            "subtotal": 3.3,
+            "discount_percentage": 10230,
+            "discount_amount": 3.3,
+            "total_tax": 0.17,
+            "grand_total": 0.17,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-19 14:15:24"
+        },
+        {
+            "id": 32,
+            "transaction_token": "e291dda3f135edb700ea1d107fb9e1e3",
+            "customer_id": 3,
+            "subtotal": 4.62,
+            "discount_percentage": 1500,
+            "discount_amount": 4.62,
+            "total_tax": 0.23,
+            "grand_total": 0.23,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-19 14:19:06"
+        },
+        {
+            "id": 33,
+            "transaction_token": "5aa367ab238543b454b5f8fcc9bb8b8e",
+            "customer_id": 4,
+            "subtotal": 3.3,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 0.17,
+            "grand_total": 3.46,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-19 14:24:11"
+        },
+        {
+            "id": 34,
+            "transaction_token": "fa887b766a1edcfc2faa85385875aeb2",
+            "customer_id": 5,
+            "subtotal": 108,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 12.96,
+            "grand_total": 120.96,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-20 08:36:09"
+        },
+        {
+            "id": 35,
+            "transaction_token": "2b43f0691544ca02b02dc88f0cd85b4a",
+            "customer_id": 0,
+            "subtotal": 109.4,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 13.03,
+            "grand_total": 122.43,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-20 15:53:21"
+        },
+        {
+            "id": 36,
+            "transaction_token": "b8a8c03c12a413f9d2136d0b0d52cbbe",
+            "customer_id": 7,
+            "subtotal": 1.4,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 0.07,
+            "grand_total": 1.47,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-21 08:16:04"
+        },
+        {
+            "id": 37,
+            "transaction_token": "fc4cacf8f475352be1a4dc2af44951bc",
+            "customer_id": 0,
+            "subtotal": 70.84,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 3.54,
+            "grand_total": 74.38,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-23 15:22:00"
+        },
+        {
+            "id": 38,
+            "transaction_token": "129dfa6ddfeb186f20ea239f071169af",
+            "customer_id": 8,
+            "subtotal": 152.5,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 15.18,
+            "grand_total": 167.69,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-26 13:56:49"
+        },
+        {
+            "id": 39,
+            "transaction_token": "466b899350cf0deab13c2c372c1a4be9",
+            "customer_id": 9,
+            "subtotal": 154,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 15.26,
+            "grand_total": 169.26,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-26 14:55:16"
+        },
+        {
+            "id": 40,
+            "transaction_token": "c030ed7a1c169fe01eaad35c3ea0f858",
+            "customer_id": 10,
+            "subtotal": 26.34,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 1.32,
+            "grand_total": 27.66,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-27 13:02:21"
+        },
+        {
+            "id": 41,
+            "transaction_token": "e069f7a889f9aadeb7d7d5494060178a",
+            "customer_id": 11,
+            "subtotal": 108,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 12.96,
+            "grand_total": 120.96,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-27 14:05:16"
+        },
+        {
+            "id": 42,
+            "transaction_token": "6035eb291de4bb1060fc67e06d5db797",
+            "customer_id": 0,
+            "subtotal": 69.5,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 3.48,
+            "grand_total": 72.97,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-28 08:07:02"
+        },
+        {
+            "id": 43,
+            "transaction_token": "8da1f03df1a4e820ea4247ca9d674f9c",
+            "customer_id": 12,
+            "subtotal": 2.32,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 0.12,
+            "grand_total": 2.44,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-28 08:07:28"
+        },
+        {
+            "id": 44,
+            "transaction_token": "a562d40e4f0b0550759cd5bf74fcf712",
+            "customer_id": 13,
+            "subtotal": 38.25,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 1.91,
+            "grand_total": 40.16,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-28 13:26:13"
+        },
+        {
+            "id": 45,
+            "transaction_token": "7f7e432aaf723d0249f6da8173ccae3f",
+            "customer_id": 14,
+            "subtotal": 41.89,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 2.09,
+            "grand_total": 43.98,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-28 13:26:50"
+        },
+        {
+            "id": 46,
+            "transaction_token": "d9577d0405b4b9f8d8531ca51655a514",
+            "customer_id": 15,
+            "subtotal": 33.75,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 1.69,
+            "grand_total": 35.44,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-28 13:33:10"
+        },
+        {
+            "id": 47,
+            "transaction_token": "a6df2ea291c29a6d0bb70b318a4deeee",
+            "customer_id": 16,
+            "subtotal": 152.5,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 15.18,
+            "grand_total": 167.69,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-30 07:57:16"
+        },
+        {
+            "id": 48,
+            "transaction_token": "59349b8d91523f8f917ceaa2b3d7d975",
+            "customer_id": 17,
+            "subtotal": 154,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 15.26,
+            "grand_total": 169.26,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-01-30 13:36:32"
+        },
+        {
+            "id": 49,
+            "transaction_token": "ad9d1ef2aacd16dbff9cb4ed42560293",
+            "customer_id": 18,
+            "subtotal": 161.35,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 8.07,
+            "grand_total": 169.42,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-02-02 15:35:48"
+        },
+        {
+            "id": 50,
+            "transaction_token": "ce51580d6836e450d4519afde7e0bdc8",
+            "customer_id": 0,
+            "subtotal": 552,
+            "discount_percentage": 0,
+            "discount_amount": 0,
+            "total_tax": 65.4,
+            "grand_total": 617.4,
+            "user_id": 1,
+            "user_name": false,
+            "created_at": "2026-02-13 15:19:36"
+        }
+    ],
+    "sale_items": [
+        {
+            "id": 1,
+            "sale_id": 1,
+            "stock_batch_id": 101,
+            "medicine_name": "Paracetamol",
+            "quantity": 1,
+            "unit_price": 25,
+            "tax": 1.25,
+            "total": 25
+        },
+        {
+            "id": 2,
+            "sale_id": 1,
+            "stock_batch_id": 202,
+            "medicine_name": "Ibuprofen",
+            "quantity": 1,
+            "unit_price": 44.5,
+            "tax": 2.225,
+            "total": 44.5
+        },
+        {
+            "id": 4,
+            "sale_id": 2,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 5,
+            "sale_id": 2,
+            "stock_batch_id": 202,
+            "medicine_name": "Ibuprofen",
+            "quantity": 1,
+            "unit_price": 44.5,
+            "tax": 2.225,
+            "total": 44.5
+        },
+        {
+            "id": 7,
+            "sale_id": 3,
+            "stock_batch_id": 101,
+            "medicine_name": "Paracetamol",
+            "quantity": 1,
+            "unit_price": 25,
+            "tax": 1.25,
+            "total": 25
+        },
+        {
+            "id": 8,
+            "sale_id": 3,
+            "stock_batch_id": 202,
+            "medicine_name": "Ibuprofen",
+            "quantity": 1,
+            "unit_price": 44.5,
+            "tax": 2.225,
+            "total": 44.5
+        },
+        {
+            "id": 10,
+            "sale_id": 4,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 11,
+            "sale_id": 4,
+            "stock_batch_id": 202,
+            "medicine_name": "Ibuprofen",
+            "quantity": 1,
+            "unit_price": 44.5,
+            "tax": 2.225,
+            "total": 44.5
+        },
+        {
+            "id": 13,
+            "sale_id": 5,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 15,
+            "sale_id": 6,
+            "stock_batch_id": 304,
+            "medicine_name": "Test Medicine",
+            "quantity": 1,
+            "unit_price": 8.75,
+            "tax": 0.4375,
+            "total": 8.75
+        },
+        {
+            "id": 16,
+            "sale_id": 6,
+            "stock_batch_id": 101,
+            "medicine_name": "Paracetamol",
+            "quantity": 1,
+            "unit_price": 25,
+            "tax": 1.25,
+            "total": 25
+        },
+        {
+            "id": 18,
+            "sale_id": 7,
+            "stock_batch_id": 305,
+            "medicine_name": "Nims",
+            "quantity": 1,
+            "unit_price": 1.5,
+            "tax": 0.07500000000000001,
+            "total": 1.5
+        },
+        {
+            "id": 20,
+            "sale_id": 8,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 22,
+            "sale_id": 9,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 24,
+            "sale_id": 10,
+            "stock_batch_id": 306,
+            "medicine_name": "Nims",
+            "quantity": 1,
+            "unit_price": 1.34,
+            "tax": 0.067,
+            "total": 1.34
+        },
+        {
+            "id": 26,
+            "sale_id": 11,
+            "stock_batch_id": 309,
+            "medicine_name": "Calamox",
+            "quantity": 1,
+            "unit_price": 1.5,
+            "tax": 0.07500000000000001,
+            "total": 1.5
+        },
+        {
+            "id": 28,
+            "sale_id": 12,
+            "stock_batch_id": 308,
+            "medicine_name": "Panadol",
+            "quantity": 1,
+            "unit_price": 1.34,
+            "tax": 0.067,
+            "total": 1.34
+        },
+        {
+            "id": 30,
+            "sale_id": 13,
+            "stock_batch_id": 312,
+            "medicine_name": "Brufen",
+            "quantity": 1,
+            "unit_price": 1.4,
+            "tax": 0.06999999999999999,
+            "total": 1.4
+        },
+        {
+            "id": 31,
+            "sale_id": 13,
+            "stock_batch_id": 311,
+            "medicine_name": "Panadol",
+            "quantity": 1,
+            "unit_price": 1.6,
+            "tax": 0.08000000000000002,
+            "total": 1.6
+        },
+        {
+            "id": 32,
+            "sale_id": 13,
+            "stock_batch_id": 315,
+            "medicine_name": "Augmentin",
+            "quantity": 1,
+            "unit_price": 1,
+            "tax": 0.05,
+            "total": 1
+        },
+        {
+            "id": 34,
+            "sale_id": 14,
+            "stock_batch_id": 313,
+            "medicine_name": "Calpol",
+            "quantity": 1,
+            "unit_price": 1.3,
+            "tax": 0.065,
+            "total": 1.3
+        },
+        {
+            "id": 36,
+            "sale_id": 15,
+            "stock_batch_id": 313,
+            "medicine_name": "Calpol",
+            "quantity": 1,
+            "unit_price": 1.3,
+            "tax": 0.065,
+            "total": 1.3
+        },
+        {
+            "id": 38,
+            "sale_id": 16,
+            "stock_batch_id": 316,
+            "medicine_name": "Amoxil",
+            "quantity": 1,
+            "unit_price": 1.32,
+            "tax": 0.066,
+            "total": 1.32
+        },
+        {
+            "id": 40,
+            "sale_id": 17,
+            "stock_batch_id": 311,
+            "medicine_name": "Panadol",
+            "quantity": 1,
+            "unit_price": 1.6,
+            "tax": 0.08000000000000002,
+            "total": 1.6
+        },
+        {
+            "id": 42,
+            "sale_id": 18,
+            "stock_batch_id": 313,
+            "medicine_name": "Calpol",
+            "quantity": 1,
+            "unit_price": 1.3,
+            "tax": 0.065,
+            "total": 1.3
+        },
+        {
+            "id": 44,
+            "sale_id": 19,
+            "stock_batch_id": 314,
+            "medicine_name": "Ansaid",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 46,
+            "sale_id": 20,
+            "stock_batch_id": 312,
+            "medicine_name": "Brufen",
+            "quantity": 1,
+            "unit_price": 1.4,
+            "tax": 0.06999999999999999,
+            "total": 1.4
+        },
+        {
+            "id": 48,
+            "sale_id": 21,
+            "stock_batch_id": 316,
+            "medicine_name": "Amoxil",
+            "quantity": 1,
+            "unit_price": 1.32,
+            "tax": 0.066,
+            "total": 1.32
+        },
+        {
+            "id": 50,
+            "sale_id": 22,
+            "stock_batch_id": 312,
+            "medicine_name": "Brufen",
+            "quantity": 1,
+            "unit_price": 1.4,
+            "tax": 0.06999999999999999,
+            "total": 1.4
+        },
+        {
+            "id": 52,
+            "sale_id": 23,
+            "stock_batch_id": 314,
+            "medicine_name": "Ansaid",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 54,
+            "sale_id": 24,
+            "stock_batch_id": 317,
+            "medicine_name": "Flagyl",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 55,
+            "sale_id": 24,
+            "stock_batch_id": 316,
+            "medicine_name": "Amoxil",
+            "quantity": 1,
+            "unit_price": 1.32,
+            "tax": 0.066,
+            "total": 1.32
+        },
+        {
+            "id": 56,
+            "sale_id": 24,
+            "stock_batch_id": 315,
+            "medicine_name": "Augmentin",
+            "quantity": 1,
+            "unit_price": 1,
+            "tax": 0.05,
+            "total": 1
+        },
+        {
+            "id": 58,
+            "sale_id": 25,
+            "stock_batch_id": 313,
+            "medicine_name": "Calpol",
+            "quantity": 1,
+            "unit_price": 1.3,
+            "tax": 0.065,
+            "total": 1.3
+        },
+        {
+            "id": 60,
+            "sale_id": 26,
+            "stock_batch_id": 312,
+            "medicine_name": "Brufen",
+            "quantity": 1,
+            "unit_price": 1.4,
+            "tax": 0.06999999999999999,
+            "total": 1.4
+        },
+        {
+            "id": 62,
+            "sale_id": 27,
+            "stock_batch_id": 314,
+            "medicine_name": "Ansaid",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 64,
+            "sale_id": 28,
+            "stock_batch_id": 314,
+            "medicine_name": "Ansaid",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 66,
+            "sale_id": 29,
+            "stock_batch_id": 312,
+            "medicine_name": "Brufen",
+            "quantity": 1,
+            "unit_price": 1.4,
+            "tax": 0.06999999999999999,
+            "total": 1.4
+        },
+        {
+            "id": 68,
+            "sale_id": 30,
+            "stock_batch_id": 314,
+            "medicine_name": "Ansaid",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 70,
+            "sale_id": 31,
+            "stock_batch_id": 313,
+            "medicine_name": "Calpol",
+            "quantity": 1,
+            "unit_price": 1.3,
+            "tax": 0.065,
+            "total": 1.3
+        },
+        {
+            "id": 71,
+            "sale_id": 31,
+            "stock_batch_id": 314,
+            "medicine_name": "Ansaid",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 73,
+            "sale_id": 32,
+            "stock_batch_id": 314,
+            "medicine_name": "Ansaid",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 74,
+            "sale_id": 32,
+            "stock_batch_id": 313,
+            "medicine_name": "Calpol",
+            "quantity": 1,
+            "unit_price": 1.3,
+            "tax": 0.065,
+            "total": 1.3
+        },
+        {
+            "id": 75,
+            "sale_id": 32,
+            "stock_batch_id": 316,
+            "medicine_name": "Amoxil",
+            "quantity": 1,
+            "unit_price": 1.32,
+            "tax": 0.066,
+            "total": 1.32
+        },
+        {
+            "id": 77,
+            "sale_id": 33,
+            "stock_batch_id": 314,
+            "medicine_name": "Ansaid",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 78,
+            "sale_id": 33,
+            "stock_batch_id": 313,
+            "medicine_name": "Calpol",
+            "quantity": 1,
+            "unit_price": 1.3,
+            "tax": 0.065,
+            "total": 1.3
+        },
+        {
+            "id": 80,
+            "sale_id": 34,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 82,
+            "sale_id": 35,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 83,
+            "sale_id": 35,
+            "stock_batch_id": 312,
+            "medicine_name": "Brufen",
+            "quantity": 1,
+            "unit_price": 1.4,
+            "tax": 0.06999999999999999,
+            "total": 1.4
+        },
+        {
+            "id": 85,
+            "sale_id": 36,
+            "stock_batch_id": 312,
+            "medicine_name": "Brufen",
+            "quantity": 1,
+            "unit_price": 1.4,
+            "tax": 0.06999999999999999,
+            "total": 1.4
+        },
+        {
+            "id": 87,
+            "sale_id": 37,
+            "stock_batch_id": 101,
+            "medicine_name": "Paracetamol",
+            "quantity": 1,
+            "unit_price": 25,
+            "tax": 1.25,
+            "total": 25
+        },
+        {
+            "id": 88,
+            "sale_id": 37,
+            "stock_batch_id": 202,
+            "medicine_name": "Ibuprofen",
+            "quantity": 1,
+            "unit_price": 44.5,
+            "tax": 2.225,
+            "total": 44.5
+        },
+        {
+            "id": 89,
+            "sale_id": 37,
+            "stock_batch_id": 306,
+            "medicine_name": "Nims",
+            "quantity": 1,
+            "unit_price": 1.34,
+            "tax": 0.067,
+            "total": 1.34
+        },
+        {
+            "id": 91,
+            "sale_id": 38,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 92,
+            "sale_id": 38,
+            "stock_batch_id": 202,
+            "medicine_name": "Ibuprofen",
+            "quantity": 1,
+            "unit_price": 44.5,
+            "tax": 2.225,
+            "total": 44.5
+        },
+        {
+            "id": 94,
+            "sale_id": 39,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 95,
+            "sale_id": 39,
+            "stock_batch_id": 202,
+            "medicine_name": "Ibuprofen",
+            "quantity": 1,
+            "unit_price": 44.5,
+            "tax": 2.225,
+            "total": 44.5
+        },
+        {
+            "id": 96,
+            "sale_id": 39,
+            "stock_batch_id": 305,
+            "medicine_name": "Nims",
+            "quantity": 1,
+            "unit_price": 1.5,
+            "tax": 0.07500000000000001,
+            "total": 1.5
+        },
+        {
+            "id": 98,
+            "sale_id": 40,
+            "stock_batch_id": 101,
+            "medicine_name": "Paracetamol",
+            "quantity": 1,
+            "unit_price": 25,
+            "tax": 1.25,
+            "total": 25
+        },
+        {
+            "id": 99,
+            "sale_id": 40,
+            "stock_batch_id": 306,
+            "medicine_name": "Nims",
+            "quantity": 1,
+            "unit_price": 1.34,
+            "tax": 0.067,
+            "total": 1.34
+        },
+        {
+            "id": 101,
+            "sale_id": 41,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 103,
+            "sale_id": 42,
+            "stock_batch_id": 101,
+            "medicine_name": "Paracetamol",
+            "quantity": 1,
+            "unit_price": 25,
+            "tax": 1.25,
+            "total": 25
+        },
+        {
+            "id": 104,
+            "sale_id": 42,
+            "stock_batch_id": 202,
+            "medicine_name": "Ibuprofen",
+            "quantity": 1,
+            "unit_price": 44.5,
+            "tax": 2.225,
+            "total": 44.5
+        },
+        {
+            "id": 106,
+            "sale_id": 43,
+            "stock_batch_id": 315,
+            "medicine_name": "Augmentin",
+            "quantity": 1,
+            "unit_price": 1,
+            "tax": 0.05,
+            "total": 1
+        },
+        {
+            "id": 107,
+            "sale_id": 43,
+            "stock_batch_id": 316,
+            "medicine_name": "Amoxil",
+            "quantity": 1,
+            "unit_price": 1.32,
+            "tax": 0.066,
+            "total": 1.32
+        },
+        {
+            "id": 109,
+            "sale_id": 44,
+            "stock_batch_id": 101,
+            "medicine_name": "Paracetamol",
+            "quantity": 1,
+            "unit_price": 25,
+            "tax": 1.25,
+            "total": 25
+        },
+        {
+            "id": 110,
+            "sale_id": 44,
+            "stock_batch_id": 304,
+            "medicine_name": "Test Medicine",
+            "quantity": 1,
+            "unit_price": 8.75,
+            "tax": 0.4375,
+            "total": 8.75
+        },
+        {
+            "id": 111,
+            "sale_id": 44,
+            "stock_batch_id": 305,
+            "medicine_name": "Nims",
+            "quantity": 3,
+            "unit_price": 1.5,
+            "tax": 0.225,
+            "total": 4.5
+        },
+        {
+            "id": 113,
+            "sale_id": 45,
+            "stock_batch_id": 101,
+            "medicine_name": "Paracetamol",
+            "quantity": 1,
+            "unit_price": 25,
+            "tax": 1.25,
+            "total": 25
+        },
+        {
+            "id": 114,
+            "sale_id": 45,
+            "stock_batch_id": 304,
+            "medicine_name": "Test Medicine",
+            "quantity": 1,
+            "unit_price": 8.75,
+            "tax": 0.4375,
+            "total": 8.75
+        },
+        {
+            "id": 115,
+            "sale_id": 45,
+            "stock_batch_id": 305,
+            "medicine_name": "Nims",
+            "quantity": 1,
+            "unit_price": 1.5,
+            "tax": 0.07500000000000001,
+            "total": 1.5
+        },
+        {
+            "id": 116,
+            "sale_id": 45,
+            "stock_batch_id": 306,
+            "medicine_name": "Nims",
+            "quantity": 1,
+            "unit_price": 1.34,
+            "tax": 0.067,
+            "total": 1.34
+        },
+        {
+            "id": 117,
+            "sale_id": 45,
+            "stock_batch_id": 314,
+            "medicine_name": "Ansaid",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 118,
+            "sale_id": 45,
+            "stock_batch_id": 313,
+            "medicine_name": "Calpol",
+            "quantity": 1,
+            "unit_price": 1.3,
+            "tax": 0.065,
+            "total": 1.3
+        },
+        {
+            "id": 119,
+            "sale_id": 45,
+            "stock_batch_id": 317,
+            "medicine_name": "Flagyl",
+            "quantity": 1,
+            "unit_price": 2,
+            "tax": 0.1,
+            "total": 2
+        },
+        {
+            "id": 121,
+            "sale_id": 46,
+            "stock_batch_id": 101,
+            "medicine_name": "Paracetamol",
+            "quantity": 1,
+            "unit_price": 25,
+            "tax": 1.25,
+            "total": 25
+        },
+        {
+            "id": 122,
+            "sale_id": 46,
+            "stock_batch_id": 304,
+            "medicine_name": "Test Medicine",
+            "quantity": 1,
+            "unit_price": 8.75,
+            "tax": 0.4375,
+            "total": 8.75
+        },
+        {
+            "id": 124,
+            "sale_id": 47,
+            "stock_batch_id": 202,
+            "medicine_name": "Ibuprofen",
+            "quantity": 1,
+            "unit_price": 44.5,
+            "tax": 2.225,
+            "total": 44.5
+        },
+        {
+            "id": 125,
+            "sale_id": 47,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 127,
+            "sale_id": 48,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 1,
+            "unit_price": 108,
+            "tax": 12.959999999999999,
+            "total": 108
+        },
+        {
+            "id": 128,
+            "sale_id": 48,
+            "stock_batch_id": 202,
+            "medicine_name": "Ibuprofen",
+            "quantity": 1,
+            "unit_price": 44.5,
+            "tax": 2.225,
+            "total": 44.5
+        },
+        {
+            "id": 129,
+            "sale_id": 48,
+            "stock_batch_id": 305,
+            "medicine_name": "Nims",
+            "quantity": 1,
+            "unit_price": 1.5,
+            "tax": 0.07500000000000001,
+            "total": 1.5
+        },
+        {
+            "id": 131,
+            "sale_id": 49,
+            "stock_batch_id": 101,
+            "medicine_name": "Paracetamol",
+            "quantity": 6,
+            "unit_price": 25,
+            "tax": 7.5,
+            "total": 150
+        },
+        {
+            "id": 132,
+            "sale_id": 49,
+            "stock_batch_id": 304,
+            "medicine_name": "Test Medicine",
+            "quantity": 1,
+            "unit_price": 8.75,
+            "tax": 0.4375,
+            "total": 8.75
+        },
+        {
+            "id": 133,
+            "sale_id": 49,
+            "stock_batch_id": 307,
+            "medicine_name": "Nims",
+            "quantity": 1,
+            "unit_price": 1.2,
+            "tax": 0.06,
+            "total": 1.2
+        },
+        {
+            "id": 134,
+            "sale_id": 49,
+            "stock_batch_id": 312,
+            "medicine_name": "Brufen",
+            "quantity": 1,
+            "unit_price": 1.4,
+            "tax": 0.06999999999999999,
+            "total": 1.4
+        },
+        {
+            "id": 136,
+            "sale_id": 50,
+            "stock_batch_id": 303,
+            "medicine_name": "Azithromycin",
+            "quantity": 5,
+            "unit_price": 108,
+            "tax": 64.8,
+            "total": 540
+        },
+        {
+            "id": 137,
+            "sale_id": 50,
+            "stock_batch_id": 314,
+            "medicine_name": "Ansaid",
+            "quantity": 6,
+            "unit_price": 2,
+            "tax": 0.6000000000000001,
+            "total": 12
+        }
+    ],
+    "purchases": [
+        {
+            "id": 1,
+            "supplier_id": 1,
+            "supplier_name": "HealthCorp Distribution",
+            "purchase_date": "2025-12-15",
+            "total_amount": 8500,
+            "user_id": 1,
+            "user_name": "Admin User"
+        },
+        {
+            "id": 2,
+            "supplier_id": 2,
+            "supplier_name": "Pharma Inc. Supplies",
+            "purchase_date": "2025-12-10",
+            "total_amount": 12500,
+            "user_id": 1,
+            "user_name": "Admin User"
+        }
+    ],
+    "purchase_items": [
+        {
+            "id": 1,
+            "purchase_id": 1,
+            "medicine_name": "Ibuprofen",
+            "batch_number": "I67890",
+            "quantity": 100,
+            "cost_price": 35,
+            "total": 3500
+        },
+        {
+            "id": 2,
+            "purchase_id": 1,
+            "medicine_name": "Azithromycin",
+            "batch_number": "A11223",
+            "quantity": 50,
+            "cost_price": 100,
+            "total": 5000
+        },
+        {
+            "id": 3,
+            "purchase_id": 2,
+            "medicine_name": "Paracetamol",
+            "batch_number": "P12345",
+            "quantity": 500,
+            "cost_price": 25,
+            "total": 12500
+        }
+    ],
+    "categories": [
+        {
+            "id": 4,
+            "name": "Painkiller",
+            "parent_id": 1
+        },
+        {
+            "id": 5,
+            "name": "NSAID",
+            "parent_id": null
+        },
+        {
+            "id": 6,
+            "name": "Cephalosporin Antibiotic",
+            "parent_id": null
+        },
+        {
+            "id": 7,
+            "name": "Macrolide Antibiotic",
+            "parent_id": null
+        },
+        {
+            "id": 8,
+            "name": "Antihistamine",
+            "parent_id": null
+        },
+        {
+            "id": 9,
+            "name": "Antiallergic",
+            "parent_id": null
+        },
+        {
+            "id": 10,
+            "name": "Decongestant",
+            "parent_id": null
+        },
+        {
+            "id": 11,
+            "name": "Antihypertensive",
+            "parent_id": null
+        },
+        {
+            "id": 13,
+            "name": "Beta Blocker",
+            "parent_id": null
+        },
+        {
+            "id": 14,
+            "name": "ACE Inhibitor",
+            "parent_id": null
+        },
+        {
+            "id": 15,
+            "name": "Antidiabetic",
+            "parent_id": null
+        },
+        {
+            "id": 16,
+            "name": "Prokinetic",
+            "parent_id": null
+        },
+        {
+            "id": 17,
+            "name": "Antacid",
+            "parent_id": null
+        }
+    ],
+    "manufacturers": [
+        {
+            "id": 1,
+            "name": "Arham Ali",
+            "contact_person_encrypted": false,
+            "phone_encrypted": false,
+            "email_encrypted": false
+        },
+        {
+            "id": 2,
+            "name": "HealthCorp"
+        },
+        {
+            "id": 3,
+            "name": "Haris",
+            "contact_person_encrypted": false,
+            "phone_encrypted": false,
+            "email_encrypted": false
+        },
+        {
+            "id": 4,
+            "name": "Abbas Ahsan",
+            "contact_person_encrypted": false,
+            "phone_encrypted": false,
+            "email_encrypted": false
+        },
+        {
+            "id": 5,
+            "name": "Faizan",
+            "contact_person_encrypted": false,
+            "phone_encrypted": false,
+            "email_encrypted": false
+        },
+        {
+            "id": 6,
+            "name": "Qamar Ali",
+            "contact_person_encrypted": false,
+            "phone_encrypted": false,
+            "email_encrypted": false
+        }
+    ],
+    "generic_salts": [
+        {
+            "id": 1,
+            "name": "Paracetamol"
+        },
+        {
+            "id": 2,
+            "name": "Ibuprofen"
+        },
+        {
+            "id": 3,
+            "name": "Azithromycin"
+        }
+    ],
+    "suppliers": [
+        {
+            "id": 1,
+            "name": "haris",
+            "contact_person_encrypted": false,
+            "phone_encrypted": false,
+            "email_encrypted": false
+        },
+        {
+            "id": 2,
+            "name": "Pharma Inc. Supplies"
+        },
+        {
+            "id": 3,
+            "name": "Arham Ali",
+            "contact_person_encrypted": "pilUynKc3QcXiSriR3gJsOfA53dlxKKfNV7v7j+vGMBKYSj2bQ==",
+            "phone_encrypted": "XRlEkAOvfXBVpWmkbzUlRaHOBYT2jV8hcAM3fWETer11P0THAa9q",
+            "email_encrypted": "lZW1vtjOxdLdEAAJek7mchADLhXGy\/SXUA18l5iC1f3wrWaAmr5IifADwaPI2JA+TdXevAg="
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password_hash": "$2y$10$idLXMUMYVHxT4SXYjEZHYepP7LjpJ77deE6ixHFtuxdBSBTUZwuru",
+            "full_name_encrypted": "",
+            "role": "admin",
+            "is_active": true
+        },
+        {
+            "id": 2,
+            "username": "pharmacist1",
+            "password_hash": "password123",
+            "full_name_encrypted": "",
+            "role": "pharmacist",
+            "is_active": true
+        },
+        {
+            "id": 3,
+            "username": "cashier1",
+            "password_hash": "$2y$10$x33mfXRZkHH\/6CDiEzqdqekQRoqxTWVj6jTDO9fUGS\/kjPkuNAb26",
+            "full_name_encrypted": "XKZ7NMZZef0XDLOjpjCZqpaSlwTeqo1uOYIbVl2787Ph1zdUnJsjEgvJ5biM",
+            "role": "cashier",
+            "is_active": false
+        }
+    ],
+    "bank_transactions": [
+        {
+            "id": 1,
+            "user_id": 1,
+            "user_name": "admin",
+            "transaction_time": "2025-12-23T19:17",
+            "type": "credit",
+            "description": "arham",
+            "amount": 12345,
+            "balance": 12345
+        },
+        {
+            "id": 2,
+            "user_id": 1,
+            "user_name": "admin",
+            "transaction_time": "2025-12-23T19:19",
+            "type": "credit",
+            "description": "ok",
+            "amount": 12345,
+            "balance": 24690
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-19 14:10:05"
+        },
+        {
+            "id": 2,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-19 14:14:56"
+        },
+        {
+            "id": 3,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-19 14:18:44"
+        },
+        {
+            "id": 4,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-19 14:24:08"
+        },
+        {
+            "id": 5,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-20 08:36:04"
+        },
+        {
+            "id": 6,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-20 15:46:15"
+        },
+        {
+            "id": 7,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-21 08:15:52"
+        },
+        {
+            "id": 8,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-26 13:56:40"
+        },
+        {
+            "id": 9,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-26 14:55:09"
+        },
+        {
+            "id": 10,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-27 13:02:12"
+        },
+        {
+            "id": 11,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-27 14:05:11"
+        },
+        {
+            "id": 12,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-28 08:07:22"
+        },
+        {
+            "id": 13,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-28 13:25:57"
+        },
+        {
+            "id": 14,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-28 13:26:44"
+        },
+        {
+            "id": 15,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-28 13:33:04"
+        },
+        {
+            "id": 16,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-30 07:57:10"
+        },
+        {
+            "id": 17,
+            "name": "Arham ali",
+            "phone": "03028651408",
+            "email": "m29874780@gmail.com",
+            "address": "",
+            "created_at": "2026-01-30 13:36:24"
+        },
+        {
+            "id": 18,
+            "name": "Nabeel Akhter",
+            "phone": "03046868755",
+            "email": "arhamali88@gmail.com",
+            "address": "",
+            "created_at": "2026-02-02 15:35:41"
+        }
+    ],
+    "settings": {
+        "store_name": "Med-Quick",
+        "store_address": "24\/7, Down town, Health City",
+        "store_phone": "+1 (555) 765-4321",
+        "store_email": "contact@medquick.com",
+        "currency_symbol": "PKR",
+        "default_tax_rate": "5.00",
+        "session_timeout": "30"
+    }
+}

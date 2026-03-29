@@ -1,0 +1,16 @@
+{
+    "name": "Test Medicine",
+    "barcode": "1234567890",
+    "strength": "10mg",
+    "category_id": 1,
+    "manufacturer_id": 1,
+    "generic_salt_id": 1,
+    "mrp": 10.50,
+    "cost_price": 5.25,
+    "selling_price": 8.75,
+    "tax_rate": 5,
+    "requires_prescription": false,
+    "batch_number": "BATCH123",
+    "expiry_date": "2026-12-31",
+    "quantity": 100
+}
